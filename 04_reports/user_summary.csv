@@ -1,0 +1,8 @@
+Metric,Before Cleaning,After Cleaning
+Total Users,2000,2000
+Unique User IDs,2000,2000
+Duplicate Records,0,0
+Missing Account Age,30,30
+Missing Variant,0,0
+Missing Region,0,0
+Missing Premium Status,0,0

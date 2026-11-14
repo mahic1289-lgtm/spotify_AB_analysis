@@ -1,0 +1,6 @@
+Metric,Control,Treatment,Difference,P_Value,Result,Interpretation
+Daily Podcast Listening,10.3483,11.4238,1.0755,0.0149,Preliminary positive,Treatment higher; missing-data limitations
+Daily Discovery Clicks,0.9795,1.4012,0.4218,1e-07,Significant positive,Higher discovery engagement
+Daily Music Minutes,55.3607,54.5118,-0.8489,0.3182,Not significant,No clear change in music listening
+Daily App Crashes,0.0235,0.0273,0.0038,0.1258,Not significant,No significant difference in crash rate
+Users with at least one crash (%),19.41,23.25,3.84,0.0411,Nominally significant,Higher crash incidence in Treatment

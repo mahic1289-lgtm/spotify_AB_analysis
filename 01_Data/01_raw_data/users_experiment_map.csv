@@ -1,0 +1,2001 @@
+User_ID,Variant,Region,Premium_Status,Account_Age_Days
+U428241,Treatment,LATAM,Free,236.0
+U454990,Control,Europe,Free,770.0
+U195228,Treatment,APAC,Premium,983.0
+U651302,Treatment,North America,Free,314.0
+U926541,Control,Europe,Free,430.0
+U643893,Treatment,North America,Free,1102.0
+U279338,Control,EUROPE,Premium,981.0
+U727780,Control,North America,Premium,718.0
+U769556,Control,North America,Premium,792.0
+U712735,Treatment,LATAM,Premium,288.0
+U104260,Control,North America,Premium,1119.0
+U817494,Control,North America,Premium,1491.0
+U857648,Control,MEA,Free,2417.0
+U154382,Control,North America,Premium,866.0
+U355334,Control,Europe,Free,1525.0
+U119704,Treatment,Europe,Free,223.0
+U722825,Control,North America,Free,861.0
+U331211,Control,Europe,Premium,715.0
+U940174,Treatment,North America,Premium,615.0
+U708073,Control,LATAM,Premium,1301.0
+U845017,Treatment,North America,Premium,1053.0
+U946324,Control,North America,Premium,181.0
+U472672,Control,Europe,Free,1089.0
+U897213,Control,APAC,Premium,526.0
+U149901,Control,APAC,Premium,803.0
+U570109,Control,MEA,Premium,595.0
+U472876,Treatment,LATAM,Free,277.0
+U730903,Control,LATAM,Free,299.0
+U315011,Treatment,Europe,Premium,244.0
+U454213,Treatment,APAC,Free,627.0
+U772904,Control,Europe,Free,1267.0
+U551800,Treatment,Europe,Free,1416.0
+U157246,Control,LATAM,Free,697.0
+U595214,Control,Europe,Free,
+U114141,Control,NORTH AMERICA,Premium,516.0
+U148632,Treatment,Europe,Premium,366.0
+U511379,Treatment,Europe,Premium,449.0
+U801085,Control,APAC,Free,741.0
+U519462,Treatment,Europe,Free,435.0
+U854002,Treatment,APAC,Free,206.0
+U949242,Control,Europe,Free,707.0
+U532768,Treatment,APAC,Free,527.0
+U885367,Treatment,North America,Premium,1957.0
+U767916,Treatment,MEA,Premium,221.0
+U493834,Treatment,Europe,Free,
+U266503,Control,North America,Free,470.0
+U175732,Control,North America,Free,1433.0
+U289047,Treatment,North America,Free,389.0
+U863592,Control,Europe,Free,1052.0
+U364473,Control,LATAM,Free,270.0
+U470281,Treatment,MEA,Free,1066.0
+U781668,Control,LATAM,Free,628.0
+U337790,Control,Europe,Premium,278.0
+U693714,Treatment,Europe,Free,414.0
+U581553,Control,APAC,Free,1057.0
+U297180,Control,APAC,Free,699.0
+U398627,Treatment,North America,Free,360.0
+U382287,Control,MEA,Premium,542.0
+U259850,Control,Europe,Premium,717.0
+U370928,Control,APAC,Premium,102.0
+U447066,Treatment,MEA,Premium,465.0
+U104232,Control,LATAM,Free,
+U132380,Treatment,North America,Free,1439.0
+U373919,Control,Europe,Free,464.0
+U667688,Control,North America,Free,1064.0
+U909832,Treatment,APAC,Premium,664.0
+U143983,Treatment,North America,Free,1171.0
+U325143,Treatment,LATAM,Free,638.0
+U867062,Control,APAC,Free,1068.0
+U860144,Treatment,North America,Free,516.0
+U454113,Treatment,Europe,Premium,196.0
+U952036,Control,LATAM,Free,698.0
+U366233,Control,Europe,Free,523.0
+U515602,Treatment,North America,Free,639.0
+U399520,Control,North America,Premium,1122.0
+U607088,Treatment,Europe,Free,2397.0
+U922262,Treatment,LATAM,Premium,1738.0
+U935965,Control,Europe,Free,619.0
+U723046,Control,North America,Free,363.0
+U579154,Control,Europe,Premium,
+U412640,Control,Europe,Free,579.0
+U290544,Control,North America,Free,1885.0
+U411232,Treatment,LATAM,Premium,2040.0
+U593776,Control,Europe,Free,1185.0
+U854392,Treatment,Europe,Free,287.0
+U706383,Control,MEA,Premium,713.0
+U720365,Control,Europe,Free,912.0
+U993661,Control,LATAM,Free,672.0
+U569172,Treatment,North America,Free,664.0
+U854843,Control,North America,Premium,784.0
+U185898,Control,North America,Free,3176.0
+U497109,Treatment,APAC,Free,447.0
+U490428,Treatment,APAC,Premium,2384.0
+U575635,Control,North America,Premium,954.0
+U513840,Treatment,North America,Premium,897.0
+U640828,Control,Europe,Free,594.0
+U755827,Control,Europe,Free,500.0
+U104390,Control,LATAM,Free,115.0
+U905669,Control,LATAM,Premium,372.0
+U898039,Control,APAC,Free,145.0
+U801450,Treatment,North America,Premium,143.0
+U629058,Control,LATAM,Free,244.0
+U567197,Treatment,Europe,Premium,1494.0
+U120376,Treatment,Europe,Premium,1489.0
+U895339,Treatment,APAC,Free,379.0
+U681847,Treatment,North America,Premium,188.0
+U577388,Treatment,LATAM,Premium,483.0
+U633620,Treatment,LATAM,Free,1079.0
+U117103,Control,APAC,Free,1299.0
+U154874,Control,Europe,Premium,780.0
+U371404,Treatment,Europe,Free,879.0
+U851491,Treatment,APAC,Free,821.0
+U354896,Control,APAC,Free,156.0
+U407163,Treatment,Europe,Premium,206.0
+U567523,Control,APAC,Free,1949.0
+U853270,Treatment,North America,Premium,777.0
+U711176,Control,Europe,Free,86.0
+U952296,Control,APAC,Free,916.0
+U460976,Control,Europe,Premium,313.0
+U625137,Control,Europe,Free,1368.0
+U564346,Control,MEA,Free,1273.0
+U432613,Control,APAC,Free,1039.0
+U202905,Control,APAC,Premium,771.0
+U209334,Control,Europe,Free,1588.0
+U389758,Control,MEA,Free,1694.0
+U961808,Control,North America,Free,320.0
+U629709,Control,Europe,Free,1031.0
+U649102,Control,Europe,Free,429.0
+U556236,Control,APAC,Free,282.0
+U406898,Control,APAC,Free,1693.0
+U373666,Control,LATAM,Free,1144.0
+U812928,Treatment,LATAM,Premium,817.0
+U191545,Treatment,Europe,Premium,347.0
+U927652,Treatment,Europe,Free,1725.0
+U253066,Treatment,Europe,Free,310.0
+U900391,Treatment,North America,Free,252.0
+U669249,Control,Europe,Premium,676.0
+U761563,Treatment,APAC,Free,1078.0
+U195545,Treatment,LATAM,Free,520.0
+U487545,Treatment,APAC,Free,
+U229675,Treatment,Europe,Free,762.0
+U246385,Control, europe ,Free,427.0
+U954923,Treatment,North America,Free,466.0
+U409094,Treatment,Europe,Premium,2091.0
+U861710,Control,Europe,Premium,630.0
+U138797,Treatment,North America,Premium,1655.0
+U320791,Control,North America,Premium,138.0
+U805112,Treatment,LATAM,Free,1386.0
+U775494,Treatment,Europe,Premium,362.0
+U779416,Control,Europe,Premium,1163.0
+U184772,Treatment,North America,Premium,359.0
+U598478,Control,Europe,Premium,493.0
+U192542,Treatment,Europe,Free,275.0
+U819612,Treatment,Europe,Free,1178.0
+U385422,Treatment,Europe,Free,1304.0
+U206367,Treatment,North America,Free,371.0
+U569196,Control,APAC,Free,176.0
+U468120,Control,North America,Free,1640.0
+U423217,Control,Europe,Free,409.0
+U890125,Control,North America,Premium,606.0
+U853556,Control,Europe,Premium,318.0
+U351728,Control,North America,Premium,
+U239649,Control,APAC,Free,1121.0
+U708956,Control,Europe,Premium,1817.0
+U736389,Treatment,LATAM,Premium,1413.0
+U387855,Control,North America,Premium,1349.0
+U102075,Treatment,North America,Premium,648.0
+U339182,Control,Europe,Free,590.0
+U105843,Control,Europe,Free,1092.0
+U923274,Treatment,Europe,Premium,621.0
+U685875,Control,MEA,Premium,1445.0
+U448307,Control,LATAM,Free,301.0
+U798489,Treatment,MEA,Free,135.0
+U898223,Control,North America,Free,1007.0
+U487410,Control,APAC,Free,451.0
+U706074,Treatment,Europe,Premium,262.0
+U527245,Control,LATAM,Premium,2558.0
+U930471,Treatment,MEA,Free,693.0
+U445731,Control,LATAM,Free,211.0
+U337054,Treatment,APAC,Free,409.0
+U437953,Treatment,LATAM,Free,553.0
+U885491,Treatment,North America,Free,992.0
+U715270,Treatment,LATAM,Premium,411.0
+U831892,Control,Europe,Premium,613.0
+U544174,Treatment,APAC,Free,837.0
+U818293,Control,APAC,Premium,949.0
+U815130,Treatment,North America,Premium,646.0
+U171050,Treatment,North America,Free,2070.0
+U469789,Control,North America,Premium,1111.0
+U862152,Treatment,Europe,Premium,1069.0
+U198165,Control,North America,Premium,1043.0
+U799821,Treatment,LATAM,Free,1452.0
+U819153,Treatment,Europe,Free,798.0
+U462707,Control,APAC,Free,297.0
+U106351,Treatment,North America,Free,918.0
+U233289,Treatment,Europe,Free,1000.0
+U448825,Control,North America,Premium,1603.0
+U712981,Treatment,APAC,Free,271.0
+U610226,Control,North America,Free,332.0
+U932429,Treatment,North America,Premium,710.0
+U975144,Control,North America,Free,1063.0
+U818942,Treatment,APAC,Free,228.0
+U383504,Treatment, north america ,Premium,278.0
+U247781,Control,LATAM,Free,1238.0
+U762625,Control,LATAM,Free,237.0
+U653177,Treatment,APAC,Premium,336.0
+U349966,Treatment,North America,Free,1291.0
+U192547,Control,North America,Free,1053.0
+U671240,Control,Europe,Free,414.0
+U751648,Control,North America,Premium,971.0
+U867109,Treatment,LATAM,Free,846.0
+U572294,Control,Europe,Premium,628.0
+U799228,Treatment,Europe,Free,510.0
+U166802,Control,North America,Premium,945.0
+U501856,Treatment,Europe,Free,257.0
+U873509,Control,North America,Free,937.0
+U140099,Control,LATAM,Free,791.0
+U263751,Treatment,North America,Premium,832.0
+U238338,Treatment,MEA,Free,324.0
+U572029,Control,LATAM,Free,1629.0
+U587503,Control, north america ,Free,415.0
+U237555,Control,North America,Free,469.0
+U955074,Control,Europe,Premium,609.0
+U386556,Control,North America,Free,1051.0
+U700784,Treatment,North America,Free,815.0
+U258605,Control,APAC,Free,
+U553006,Treatment,LATAM,Free,686.0
+U991228,Control,North America,Free,728.0
+U201510,Control,Europe,Free,1655.0
+U564655,Treatment,North America,Free,546.0
+U303555,Control,MEA,Premium,989.0
+U509603,Treatment,North America,Free,3314.0
+U543748,Control,LATAM,Premium,1473.0
+U746482,Treatment,APAC,Free,309.0
+U358657,Treatment,North America,Free,1147.0
+U712265,Treatment,North America,Free,940.0
+U493130,Control,Europe,Free,
+U914677,Control,APAC,Premium,1156.0
+U225846,Control,Europe,Premium,305.0
+U263869,Treatment,LATAM,Premium,422.0
+U508359,Control,APAC,Premium,614.0
+U316243,Control,APAC,Free,514.0
+U181250,Control,Europe,Free,
+U693842,Control,Europe,Premium,672.0
+U930125,Control,LATAM,Free,475.0
+U184478,Control,North America,Free,1457.0
+U139657,Control,APAC,Premium,1046.0
+U647110,Treatment,North America,Premium,203.0
+U503747,Control,North America,Premium,199.0
+U255354,Control,APAC,Free,477.0
+U931507,Treatment,Europe,Premium,227.0
+U651969,Treatment,North America,Free,1308.0
+U854577,Control,North America,Free,438.0
+U990514,Treatment,Europe,Free,989.0
+U392284,Treatment,APAC,Premium,1136.0
+U276280,Treatment,North America,Premium,116.0
+U489339,Treatment,North America,Premium,455.0
+U260873,Treatment,Europe,Free,594.0
+U616432,Control,MEA,Free,840.0
+U408404,Control,North America,Free,1259.0
+U581848,Treatment,MEA,Premium,2631.0
+U433264,Treatment,APAC,Free,1939.0
+U248706,Control,North America,Free,666.0
+U507212,Control,APAC,Premium,661.0
+U994174,Treatment,LATAM,Free,1811.0
+U658644,Control,Europe,Premium,693.0
+U776129,Treatment,Europe,Free,446.0
+U837869,Treatment,APAC,Premium,1322.0
+U329689,Treatment,APAC,Free,869.0
+U185525,Treatment,APAC,Free,197.0
+U866571,Treatment,MEA,Free,550.0
+U528896,Treatment,Europe,Free,234.0
+U259431,Treatment,APAC,Premium,52.0
+U122526,Treatment,APAC,Free,2112.0
+U597447,Treatment,North America,Free,759.0
+U180377,Control,North America,Premium,565.0
+U985257,Treatment,Europe,Free,474.0
+U336436,Control,APAC,Premium,703.0
+U944992,Treatment,North America,Premium,470.0
+U989614,Treatment,LATAM,Free,313.0
+U216549,Control,North America,Premium,492.0
+U399414,Control,Europe,Free,1698.0
+U809923,Control,LATAM,Free,1302.0
+U467719,Treatment,North America,Free,492.0
+U492161,Control, apac ,Premium,2250.0
+U625587,Control,North America,Premium,661.0
+U468559,Treatment,APAC,Free,375.0
+U176188,Treatment,North America,Premium,896.0
+U256399,Control,MEA,Free,1872.0
+U814851,Control,LATAM,Premium,1646.0
+U197954,Treatment,North America,Premium,390.0
+U778360,Treatment,North America,Premium,262.0
+U508932,Treatment,North America,Premium,527.0
+U663212,Control,Europe,Premium,1001.0
+U863258,Control,APAC,Free,1189.0
+U889538,Control, europe ,Premium,1497.0
+U878256,Treatment,Europe,Premium,788.0
+U944593,Control,Europe,Premium,807.0
+U752345,Control,Europe,Free,768.0
+U112506,Treatment,LATAM,Premium,1373.0
+U590701,Treatment,Europe,Free,1203.0
+U380220,Treatment,LATAM,Free,379.0
+U409020,Control,MEA,Free,1107.0
+U799657,Control,Europe,Free,1315.0
+U178639,Control,North America,Premium,1384.0
+U459988,Control,North America,Free,870.0
+U466630,Treatment,Europe,Premium,837.0
+U852395,Control,Europe,Premium,682.0
+U429888,Treatment,MEA,Free,734.0
+U781574,Treatment,LATAM,Premium,2033.0
+U273329,Treatment,Europe,Free,751.0
+U841433,Control,APAC,Premium,404.0
+U821643,Control,North America,Premium,882.0
+U104762,Control,APAC,Free,1174.0
+U368545,Control,North America,Premium,1347.0
+U383273,Control,LATAM,Free,310.0
+U866061,Control,MEA,Free,1773.0
+U319869,Treatment,APAC,Premium,1145.0
+U736290,Control,APAC,Free,1709.0
+U940412,Treatment,Europe,Premium,219.0
+U576646,Control,APAC,Free,1419.0
+U675561,Control,Europe,Free,298.0
+U381886,Control,LATAM,Premium,574.0
+U926598,Control,North America,Free,1170.0
+U425972,Control,North America,Premium,273.0
+U885963,Treatment,Europe,Free,467.0
+U422116,Control,North America,Premium,216.0
+U237873,Control,LATAM,Premium,1149.0
+U303840,Treatment,APAC,Free,374.0
+U345496,Control,MEA,Free,718.0
+U214045,Treatment,North America,Free,941.0
+U596456,Control,MEA,Premium,875.0
+U927563,Treatment,North America,Free,821.0
+U794244,Control,Europe,Free,820.0
+U961730,Control,APAC,Premium,229.0
+U302576,Treatment,North America,Free,598.0
+U975031,Treatment,North America,Free,815.0
+U358895,Control,North America,Free,754.0
+U656907,Treatment,Europe,Free,650.0
+U237786,Control,APAC,Premium,416.0
+U613875,Control,North America,Premium,
+U229134,Control,North America,Premium,975.0
+U386644,Treatment,Europe,Premium,516.0
+U545368,Control,North America,Free,1353.0
+U761023,Treatment,LATAM,Free,1796.0
+U860886,Control,MEA,Premium,
+U216136,Treatment,APAC,Premium,386.0
+U971604,Treatment,APAC,Premium,270.0
+U677563,Control,Europe,Free,568.0
+U359393,Control,APAC,Premium,690.0
+U257186,Control,North America,Premium,258.0
+U646678,Treatment,North America,Premium,555.0
+U110855,Control,LATAM,Premium,1307.0
+U619692,Treatment,North America,Free,97.0
+U970047,Control,APAC,Free,760.0
+U748470,Treatment,LATAM,Free,465.0
+U514385,Control,MEA,Free,706.0
+U320841,Treatment,Europe,Premium,1858.0
+U844598,Treatment,Europe,Free,682.0
+U690811,Control,LATAM,Free,613.0
+U387543,Treatment,North America,Free,1101.0
+U366487,Control,Europe,Premium,870.0
+U936525,Control,LATAM,Free,763.0
+U519155,Treatment,MEA,Free,892.0
+U128636,Treatment,LATAM,Premium,1542.0
+U435347,Treatment,North America,Free,1253.0
+U504374,Control,Europe,Free,582.0
+U931295,Control,Europe,Free,1795.0
+U569184,Control,North America,Premium,487.0
+U937560,Treatment, europe ,Premium,760.0
+U597141,Control,North America,Premium,822.0
+U572684,Control,North America,Free,562.0
+U521307,Control,Europe,Premium,1674.0
+U262491,Control, north america ,Premium,542.0
+U158284,Control,Europe,Free,644.0
+U229373,Control,North America,Free,1373.0
+U381010,Treatment,LATAM,Free,501.0
+U352295,Treatment,North America,Premium,249.0
+U664952,Control,APAC,Free,776.0
+U236106,Treatment,North America,Free,316.0
+U580793,Treatment,Europe,Premium,288.0
+U146380,Control,Europe,Premium,100.0
+U216109,Control,North America,Premium,115.0
+U504005,Control,Europe,Premium,125.0
+U951652,Control,APAC,Free,1946.0
+U514541,Treatment,APAC,Premium,124.0
+U705339,Treatment,Europe,Free,310.0
+U695135,Control,North America,Free,652.0
+U621366,Treatment,LATAM,Premium,1068.0
+U469544,Control,Europe,Free,1142.0
+U842023,Treatment,North America,Free,386.0
+U184964,Treatment,APAC,Premium,751.0
+U468634,Control,Europe,Free,638.0
+U669424,Control, latam ,Free,721.0
+U518673,Treatment,Europe,Premium,790.0
+U462799,Treatment,Europe,Premium,939.0
+U630579,Control, north america ,Premium,458.0
+U224904,Control,APAC,Free,1500.0
+U269213,Control,North America,Premium,545.0
+U507375,Treatment,APAC,Premium,2560.0
+U984375,Treatment,APAC,Free,480.0
+U759677,Treatment,LATAM,Free,760.0
+U270533,Treatment,North America,Free,643.0
+U556467,Treatment,North America,Free,739.0
+U600442,Treatment,Europe,Free,1397.0
+U184541,Control,Europe,Premium,616.0
+U868581,Treatment,APAC,Premium,277.0
+U938234,Control,Europe,Free,452.0
+U629190,Control,APAC,Premium,617.0
+U383956,Treatment,North America,Free,808.0
+U435310,Treatment,Europe,Free,387.0
+U345984,Treatment,North America,Premium,422.0
+U598947,Control,LATAM,Free,828.0
+U441847,Treatment,North America,Premium,848.0
+U562289,Control,North America,Free,1272.0
+U352355,Control,APAC,Free,447.0
+U604448,Control,Europe,Free,1001.0
+U187220,Treatment,North America,Free,643.0
+U387752,Control,North America,Premium,498.0
+U567295,Treatment,Europe,Premium,659.0
+U182648,Control,Europe,Free,725.0
+U693756,Control,North America,Free,252.0
+U233424,Treatment,LATAM,Premium,270.0
+U499380,Control,North America,Premium,1093.0
+U339555,Treatment,Europe,Free,535.0
+U899527,Treatment,Europe,Free,812.0
+U764988,Control,North America,Free,1072.0
+U589029,Treatment,North America,Free,661.0
+U899363,Treatment,North America,Free,1014.0
+U878573,Treatment,North America,Free,728.0
+U800070,Treatment,Europe,Free,752.0
+U976906,Treatment,APAC,Free,1470.0
+U912326,Treatment,APAC,Free,611.0
+U997016,Control,Europe,Premium,1101.0
+U211585,Treatment,Europe,Premium,213.0
+U120797,Treatment,Europe,Free,792.0
+U601370,Treatment,APAC,Free,1710.0
+U706162,Treatment,North America,Free,2674.0
+U371071,Control,North America,Premium,223.0
+U482229,Treatment,Europe,Premium,533.0
+U318941,Treatment,North America,Free,322.0
+U632941,Control,Europe,Premium,629.0
+U555862,Control,APAC,Premium,1220.0
+U136050,Treatment,APAC,Premium,1504.0
+U963014,Control,North America,Free,1535.0
+U544668,Treatment,Europe,Free,205.0
+U967973,Control,Europe,Premium,714.0
+U308760,Control,Europe,Free,440.0
+U820458,Treatment,Europe,Premium,603.0
+U114899,Treatment,North America,Premium,489.0
+U964144,Treatment,APAC,Free,215.0
+U121517,Treatment,MEA,Free,1513.0
+U875658,Treatment,LATAM,Free,390.0
+U145016,Treatment,LATAM,Free,447.0
+U748732,Treatment,Europe,Premium,1716.0
+U754276,Treatment,Europe,Premium,181.0
+U490436,Treatment,North America,Free,
+U982980,Control,Europe,Premium,1331.0
+U352193,Control,North America,Free,1631.0
+U702176,Treatment,APAC,Premium,888.0
+U655251,Treatment,Europe,Free,1115.0
+U222574,Treatment,Europe,Premium,1330.0
+U793248,Control,Europe,Premium,636.0
+U497495,Treatment,MEA,Free,347.0
+U896468,Control,North America,Premium,1798.0
+U248217,Treatment,North America,Premium,1037.0
+U772043,Treatment,North America,Free,714.0
+U854679,Treatment,LATAM,Premium,225.0
+U571568,Treatment,MEA,Premium,78.0
+U813515,Control,North America,Premium,918.0
+U851399,Control,APAC,Free,72.0
+U424866,Treatment,North America,Premium,708.0
+U761269,Treatment,LATAM,Premium,405.0
+U967918,Treatment,North America,Premium,488.0
+U804200,Control,Europe,Free,1545.0
+U965258,Control,LATAM,Free,408.0
+U943530,Control,Europe,Premium,733.0
+U984621,Control,North America,Free,410.0
+U493749,Control,APAC,Free,861.0
+U540254,Treatment,MEA,Free,780.0
+U538476,Treatment,Europe,Premium,708.0
+U886153,Control,LATAM,Free,1333.0
+U423898,Control,APAC,Premium,182.0
+U327461,Control,North America,Premium,137.0
+U947117,Treatment,APAC,Premium,264.0
+U526699,Control,North America,Premium,783.0
+U490639,Treatment,APAC,Free,962.0
+U737481,Treatment,North America,Premium,28.0
+U702188,Control,North America,Free,954.0
+U502572,Treatment,Europe,Premium,543.0
+U274581,Treatment,Europe,Free,1827.0
+U589265,Control,APAC,Premium,907.0
+U783153,Control,MEA,Premium,1695.0
+U592278,Treatment,North America,Free,1496.0
+U281174,Treatment,North America,Premium,543.0
+U280719,Treatment,Europe,Free,1223.0
+U230315,Treatment,Europe,Free,542.0
+U571027,Control,Europe,Free,1972.0
+U683020,Treatment,APAC,Free,581.0
+U314185,Control,APAC,Premium,993.0
+U299348,Control,North America,Premium,2205.0
+U137416,Treatment,Europe,Free,1023.0
+U662846,Treatment,LATAM,Premium,501.0
+U207487,Treatment,Europe,Premium,237.0
+U271938,Control,North America,Premium,183.0
+U329693,Control,Europe,Free,950.0
+U260365,Treatment,Europe,Premium,658.0
+U368965,Treatment,North America,Free,268.0
+U504112,Treatment,APAC,Premium,1138.0
+U431442,Treatment,Europe,Premium,1128.0
+U248216,Control,Europe,Premium,650.0
+U825552,Control,Europe,Free,1742.0
+U955041,Control,APAC,Free,151.0
+U223348,Control,North America,Premium,515.0
+U341480,Control,North America,Free,1019.0
+U189771,Treatment,Europe,Free,296.0
+U241804,Control,Europe,Premium,1213.0
+U921391,Control,North America,Premium,1450.0
+U727303,Treatment,APAC,Free,48.0
+U708141,Control,North America,Free,1780.0
+U549368,Control,North America,Premium,978.0
+U503173,Treatment,Europe,Free,470.0
+U499638,Control,APAC,Free,199.0
+U518319,Treatment,APAC,Free,1320.0
+U168800,Treatment,LATAM,Free,256.0
+U213293,Control,Europe,Premium,977.0
+U203656,Treatment,LATAM,Free,265.0
+U307307,Treatment,LATAM,Free,697.0
+U862646,Treatment,North America,Free,1282.0
+U739350,Treatment,Europe,Free,475.0
+U849980,Treatment,APAC,Free,1772.0
+U736871,Treatment,Europe,Premium,1035.0
+U127647,Treatment,LATAM,Premium,297.0
+U611462,Control,Europe,Free,214.0
+U920145,Treatment,Europe,Free,370.0
+U644772,Treatment,North America,Free,673.0
+U838040,Treatment,LATAM,Free,1880.0
+U248952,Control,APAC,Premium,2108.0
+U312406,Control,North America,Free,461.0
+U865237,Treatment,Europe,Premium,450.0
+U761175,Treatment,North America,Premium,1153.0
+U247061,Control,North America,Free,1146.0
+U322945,Control,MEA,Premium,1593.0
+U926563,Control,Europe,Free,1621.0
+U513363,Treatment,Europe,Free,349.0
+U473625,Control,North America,Premium,175.0
+U452485,Treatment,MEA,Free,1045.0
+U753247,Control,North America,Premium,812.0
+U900350,Control,LATAM,Premium,96.0
+U811961,Control,North America,Free,171.0
+U143640,Treatment,North America,Premium,1011.0
+U112490,Control,LATAM,Free,
+U596819,Treatment,North America,Premium,1027.0
+U328504,Treatment,LATAM,Free,279.0
+U107713,Control,North America,Free,1078.0
+U738986,Treatment,LATAM,Free,884.0
+U972836,Control,APAC,Premium,1131.0
+U879951,Control,LATAM,Free,487.0
+U859708,Control, north america ,Premium,408.0
+U320461,Control,LATAM,Free,198.0
+U764178,Treatment,MEA,Free,552.0
+U894204,Treatment,North America,Free,1410.0
+U252945,Treatment,North America,Free,1668.0
+U854945,Treatment,APAC,Premium,258.0
+U608051,Treatment,North America,Free,672.0
+U248997,Control,LATAM,Premium,1898.0
+U456021,Control,APAC,Premium,2063.0
+U163033,Control,North America,Free,535.0
+U408686,Treatment,EUROPE,Premium,1492.0
+U166627,Treatment,Europe,Premium,1329.0
+U468503,Control,Europe,Premium,1258.0
+U423869,Treatment,APAC,Free,147.0
+U127111,Treatment,North America,Premium,439.0
+U531161,Treatment,Europe,Premium,620.0
+U324223,Treatment,APAC,Free,607.0
+U543869,Treatment,North America,Premium,667.0
+U587580,Treatment,APAC,Free,2208.0
+U825854,Treatment,North America,Premium,549.0
+U294413,Control,Europe,Premium,913.0
+U119392,Treatment,North America,Premium,890.0
+U872639,Control,LATAM,Premium,673.0
+U590303,Treatment,APAC,Premium,273.0
+U405116,Control,APAC,Premium,741.0
+U771770,Control,MEA,Free,94.0
+U453530,Control,LATAM,Free,977.0
+U613549,Control,APAC,Free,76.0
+U596967,Control,Europe,Free,917.0
+U790341,Control,APAC,Premium,421.0
+U848097,Control,LATAM,Premium,307.0
+U108320,Control,APAC,Free,1165.0
+U347512,Treatment,North America,Free,501.0
+U770117,Treatment,Europe,Premium,713.0
+U653133,Treatment,LATAM,Free,153.0
+U591228,Control,North America,Premium,1748.0
+U764606,Control,North America,Premium,764.0
+U556470,Treatment,MEA,Free,763.0
+U639583,Control,Europe,Free,991.0
+U936085,Control,North America,Free,39.0
+U747157,Treatment, europe ,Free,1862.0
+U786711,Treatment,EUROPE,Free,534.0
+U339024,Control,LATAM,Free,1791.0
+U209459,Treatment,MEA,Free,519.0
+U475175,Control,MEA,Free,431.0
+U475199,Treatment,LATAM,Free,945.0
+U690191,Control,LATAM,Premium,2491.0
+U107050,Control,Europe,Free,1491.0
+U944295,Treatment,APAC,Premium,1018.0
+U515542,Control,North America,Free,935.0
+U942368,Treatment,North America,Free,736.0
+U399283,Control,MEA,Free,1739.0
+U116118,Treatment,APAC,Premium,1185.0
+U484237,Treatment,Europe,Free,194.0
+U977718,Control,LATAM,Free,309.0
+U366092,Treatment,Europe,Free,1043.0
+U636305,Control,Europe,Premium,263.0
+U878788,Control,North America,Free,761.0
+U866758,Control,North America,Free,1252.0
+U861514,Treatment,Europe,Premium,950.0
+U154467,Treatment,Europe,Free,227.0
+U980074,Treatment,Europe,Free,325.0
+U237975,Treatment,North America,Premium,971.0
+U850321,Treatment,MEA,Free,2320.0
+U757089,Control,LATAM,Free,649.0
+U228409,Treatment,APAC,Free,1281.0
+U403610,Treatment,North America,Free,956.0
+U418943,Control,LATAM,Premium,417.0
+U691710,Treatment,APAC,Premium,1290.0
+U424616,Control,Europe,Premium,148.0
+U924199,Control,North America,Free,1228.0
+U728654,Control,North America,Premium,997.0
+U715822,Control,North America,Premium,450.0
+U411235,Control,Europe,Free,285.0
+U546196,Treatment,Europe,Premium,483.0
+U557310,Treatment,North America,Premium,391.0
+U179844,Treatment,LATAM,Premium,572.0
+U807594,Control,North America,Free,524.0
+U126596,Control,Europe,Free,450.0
+U766964,Control,LATAM,Premium,141.0
+U212165,Treatment,North America,Premium,249.0
+U202490,Control,North America,Free,1428.0
+U237431,Treatment,North America,Free,461.0
+U383156,Treatment,North America,Premium,581.0
+U262906,Treatment,Europe,Free,502.0
+U598421,Treatment,North America,Free,1765.0
+U495853,Control,North America,Premium,383.0
+U400058,Treatment,MEA,Free,361.0
+U821891,Treatment,APAC,Free,1012.0
+U168485,Treatment,North America,Free,804.0
+U869765,Treatment,Europe,Premium,1031.0
+U843758,Treatment, europe ,Free,987.0
+U317297,Treatment,APAC,Premium,1313.0
+U228150,Control,APAC,Premium,221.0
+U911374,Treatment,North America,Premium,947.0
+U746058,Treatment,North America,Free,363.0
+U734164,Control,Europe,Free,
+U368127,Treatment,APAC,Free,983.0
+U489204,Control,APAC,Premium,944.0
+U889401,Treatment,North America,Premium,692.0
+U915180,Control,Europe,Premium,1328.0
+U247045,Control,North America,Free,365.0
+U144209,Treatment,LATAM,Free,1094.0
+U676747,Control,APAC,Premium,621.0
+U855821,Control,Europe,Free,657.0
+U939956,Control,North America,Premium,117.0
+U118475,Control,Europe,Free,1337.0
+U889356,Treatment,Europe,Premium,919.0
+U868710,Treatment,APAC,Premium,1066.0
+U218437,Control,Europe,Free,324.0
+U289362,Treatment,APAC,Free,846.0
+U863508,Control,North America,Premium,620.0
+U674469,Treatment,North America,Free,952.0
+U444772,Control,Europe,Free,819.0
+U338502,Control,North America,Free,1987.0
+U752227,Control,North America,Free,1604.0
+U921478,Treatment,LATAM,Premium,568.0
+U653738,Treatment,North America,Free,982.0
+U946057,Control,North America,Free,532.0
+U783921,Treatment,North America,Premium,1305.0
+U732610,Treatment,North America,Free,639.0
+U238406,Control,APAC,Free,477.0
+U931330,Treatment,MEA,Premium,838.0
+U725125,Treatment,North America,Premium,1525.0
+U897706,Control,APAC,Premium,1371.0
+U857045,Treatment,LATAM,Premium,499.0
+U164556,Control,MEA,Free,1877.0
+U519124,Treatment,Europe,Free,340.0
+U589216,Control,North America,Premium,433.0
+U687530,Treatment,Europe,Premium,1269.0
+U916531,Control,APAC,Premium,100.0
+U411342,Treatment,LATAM,Free,715.0
+U353693,Treatment,Europe,Free,566.0
+U560372,Control,North America,Free,1947.0
+U964801,Treatment,LATAM,Premium,290.0
+U541814,Treatment,APAC,Premium,318.0
+U858615,Treatment,Europe,Free,2118.0
+U244150,Control,LATAM,Free,571.0
+U906640,Treatment,Europe,Free,1486.0
+U554390,Control,Europe,Free,503.0
+U738435,Control,Europe,Premium,418.0
+U486982,Treatment,APAC,Premium,1534.0
+U689225,Treatment,MEA,Free,2446.0
+U246066,Treatment,Europe,Premium,1611.0
+U122295,Control,Europe,Premium,479.0
+U696361,Treatment,Europe,Free,692.0
+U139021,Treatment,North America,Free,331.0
+U372684,Control,North America,Free,380.0
+U876293,Treatment,North America,Free,364.0
+U399915,Control,Europe,Free,513.0
+U653383,Control,North America,Premium,774.0
+U244480,Treatment,Europe,Free,713.0
+U596633,Treatment,APAC,Free,1150.0
+U160830,Control,North America,Premium,803.0
+U775547,Control,LATAM,Free,1078.0
+U447604,Control,APAC,Premium,1194.0
+U512804,Treatment,Europe,Premium,485.0
+U963005,Control,North America,Premium,630.0
+U196337,Treatment,Europe,Premium,4000.0
+U992411,Treatment,Europe,Premium,454.0
+U795134,Control,Europe,Premium,1119.0
+U428901,Treatment,North America,Free,235.0
+U928742,Treatment,Europe,Free,1217.0
+U104914,Treatment,Europe,Free,397.0
+U181200,Control,North America,Free,731.0
+U964538,Control,LATAM,Free,200.0
+U729635,Control,North America,Free,679.0
+U207050,Treatment,Europe,Free,689.0
+U397514,Treatment,APAC,Free,612.0
+U885968,Control,North America,Free,959.0
+U208454,Control,LATAM,Premium,1450.0
+U285898,Treatment,Europe,Premium,317.0
+U311600,Control,Europe,Premium,624.0
+U684609,Control,APAC,Free,214.0
+U195878,Treatment,Europe,Premium,129.0
+U323269,Control,North America,Premium,796.0
+U461837,Control,APAC,Free,296.0
+U151386,Control,LATAM,Premium,708.0
+U813828,Control,LATAM,Free,818.0
+U556488,Treatment,North America,Premium,154.0
+U232939,Treatment,North America,Premium,907.0
+U553379,Treatment,LATAM,Free,1405.0
+U358192,Control,North America,Premium,1051.0
+U366116,Treatment,North America,Free,324.0
+U795016,Control,APAC,Free,676.0
+U332778,Treatment,North America,Free,731.0
+U472975,Control,North America,Free,632.0
+U314129,Treatment,North America,Free,225.0
+U177239,Control,Europe,Premium,369.0
+U133428,Control,LATAM,Free,592.0
+U863941,Control,APAC,Free,810.0
+U395969,Control,North America,Premium,452.0
+U556583,Control,North America,Free,113.0
+U805954,Treatment,Europe,Free,474.0
+U432327,Treatment,Europe,Premium,1985.0
+U614043,Control,Europe,Premium,911.0
+U232832,Treatment,MEA,Free,794.0
+U450977,Treatment, europe ,Free,364.0
+U498617,Treatment,Europe,Premium,492.0
+U885326,Treatment,MEA,Premium,104.0
+U241200,Treatment,North America,Free,344.0
+U553079,Treatment,MEA,Free,880.0
+U497755,Treatment,Europe,Free,798.0
+U865765,Treatment,Europe,Premium,419.0
+U111045,Control,MEA,Premium,632.0
+U802331,Control,Europe,Premium,713.0
+U221713,Control,Europe,Free,437.0
+U492149,Treatment,North America,Premium,947.0
+U493675,Control,LATAM,Premium,788.0
+U983773,Treatment,Europe,Free,506.0
+U818155,Treatment,North America,Premium,239.0
+U580631,Treatment,LATAM,Free,478.0
+U740702,Control,LATAM,Free,453.0
+U612721,Treatment,Europe,Premium,418.0
+U955813,Treatment,North America,Free,161.0
+U567591,Control,Europe,Premium,1654.0
+U663530,Treatment,North America,Free,1602.0
+U983905,Control,North America,Free,615.0
+U763367,Treatment,Europe,Free,807.0
+U220774,Treatment, north america ,Free,936.0
+U205874,Control,North America,Free,623.0
+U234242,Control,LATAM,Premium,848.0
+U384580,Control,Europe,Free,1028.0
+U985770,Control,MEA,Free,767.0
+U964325,Treatment,APAC,Premium,1152.0
+U488416,Control,Europe,Free,407.0
+U327639,Control,MEA,Premium,675.0
+U370083,Treatment,APAC,Free,3207.0
+U899776,Treatment,Europe,Free,1332.0
+U630210,Treatment,LATAM,Premium,780.0
+U186483,Treatment,North America,Premium,318.0
+U323293,Control,LATAM,Premium,700.0
+U109634,Treatment,Europe,Free,1274.0
+U865261,Control, north america ,Free,1106.0
+U562647,Treatment,North America,Premium,124.0
+U508687,Treatment,MEA,Premium,167.0
+U984957,Treatment,Europe,Premium,175.0
+U499254,Treatment,North America,Premium,946.0
+U798575,Treatment,North America,Premium,177.0
+U159755,Control,Europe,Free,306.0
+U142689,Treatment,APAC,Premium,606.0
+U399519,Treatment,APAC,Free,1415.0
+U101492,Treatment,Europe,Free,977.0
+U424849,Control,North America,Premium,553.0
+U355626,Control,North America,Free,1174.0
+U346939,Treatment,Europe,Free,2358.0
+U292512,Control,APAC,Premium,705.0
+U620035,Control,LATAM,Premium,226.0
+U654368,Control,Europe,Free,315.0
+U529670,Treatment,Europe,Premium,313.0
+U891139,Control,Europe,Free,376.0
+U768304,Control,Europe,Premium,524.0
+U634304,Control,Europe,Free,827.0
+U333923,Treatment,LATAM,Free,195.0
+U180706,Treatment,Europe,Free,231.0
+U132851,Control, mea ,Free,1022.0
+U295422,Control,Europe,Free,455.0
+U989396,Treatment,North America,Free,342.0
+U901172,Control,North America,Premium,570.0
+U848336,Treatment,Europe,Free,1577.0
+U142566,Control,Europe,Free,1118.0
+U405016,Treatment,Europe,Premium,1067.0
+U920464,Control,LATAM,Premium,1937.0
+U244689,Treatment,North America,Premium,854.0
+U680469,Control,LATAM,Free,2051.0
+U459886,Treatment,LATAM,Free,2156.0
+U195038,Treatment,Europe,Premium,201.0
+U463910,Treatment,Europe,Premium,151.0
+U614638,Control, north america ,Free,295.0
+U965165,Control,Europe,Premium,1476.0
+U987982,Treatment,APAC,Premium,579.0
+U154121,Treatment,APAC,Premium,526.0
+U878576,Control,Europe,Free,1195.0
+U252063,Control,North America,Premium,437.0
+U281565,Control,LATAM,Free,779.0
+U575967,Treatment,LATAM,Premium,1022.0
+U389042,Treatment,Europe,Free,319.0
+U640193,Treatment,APAC,Free,259.0
+U930076,Treatment,North America,Free,702.0
+U813143,Control,North America,Premium,768.0
+U577294,Control,North America,Premium,1134.0
+U354471,Control,North America,Premium,289.0
+U310351,Treatment,APAC,Premium,385.0
+U542573,Control,Europe,Premium,2142.0
+U113083,Control,North America,Premium,1313.0
+U858463,Control,Europe,Free,620.0
+U579334,Control,Europe,Premium,1453.0
+U930583,Treatment,EUROPE,Free,290.0
+U963669,Control,North America,Free,568.0
+U104042,Control,LATAM,Free,763.0
+U888008,Treatment,North America,Free,520.0
+U218646,Control,APAC,Premium,534.0
+U855075,Control,North America,Premium,1096.0
+U839785,Control,LATAM,Free,1325.0
+U785784,Treatment,APAC,Premium,478.0
+U137026,Control,North America,Free,212.0
+U487780,Treatment,North America,Free,172.0
+U822065,Treatment,MEA,Free,93.0
+U533651,Treatment,Europe,Free,1916.0
+U845830,Control,LATAM,Free,1099.0
+U247710,Treatment,North America,Free,940.0
+U563684,Control,North America,Free,431.0
+U791618,Control,Europe,Free,429.0
+U188912,Treatment,APAC,Premium,1354.0
+U563128,Control,North America,Free,152.0
+U685109,Control,APAC,Free,495.0
+U530404,Control,LATAM,Free,1484.0
+U482152,Control,North America,Free,494.0
+U272941,Control,North America,Free,1061.0
+U423360,Treatment,North America,Free,639.0
+U995631,Treatment,Europe,Premium,33.0
+U182357,Control,LATAM,Premium,619.0
+U802553,Treatment,Europe,Premium,712.0
+U456802,Control,North America,Premium,584.0
+U841038,Control,LATAM,Free,248.0
+U307841,Control,Europe,Free,589.0
+U925594,Control,Europe,Free,100.0
+U160701,Control,Europe,Free,490.0
+U126279,Control,North America,Free,1119.0
+U218299,Control,LATAM,Free,1848.0
+U623553,Treatment,Europe,Premium,1653.0
+U563131,Control,Europe,Free,283.0
+U940432,Control,North America,Free,180.0
+U548826,Control,Europe,Premium,763.0
+U476790,Treatment,LATAM,Free,679.0
+U522215,Control,Europe,Premium,1008.0
+U640853,Treatment,APAC,Premium,402.0
+U921959,Control, apac ,Premium,694.0
+U859530,Control,North America,Free,667.0
+U521013,Treatment,LATAM,Free,503.0
+U569690,Control,Europe,Premium,141.0
+U960374,Control,MEA,Premium,1108.0
+U264796,Control,North America,Premium,767.0
+U958247,Treatment,North America,Free,1161.0
+U597885,Treatment,Europe,Free,1353.0
+U926726,Treatment,North America,Free,625.0
+U467071,Treatment, latam ,Free,1113.0
+U553351,Control,Europe,Free,1877.0
+U619018,Treatment,North America,Premium,2275.0
+U759979,Control, europe ,Free,835.0
+U225414,Treatment,APAC,Premium,882.0
+U226758,Control,APAC,Premium,825.0
+U336231,Control,Europe,Free,984.0
+U309127,Treatment,North America,Free,1314.0
+U540303,Control,North America,Premium,813.0
+U599745,Treatment,APAC,Free,2191.0
+U749397,Control,LATAM,Free,1993.0
+U659627,Treatment,Europe,Premium,711.0
+U475711,Treatment,APAC,Premium,708.0
+U281645,Control,North America,Premium,474.0
+U235985,Treatment,LATAM,Premium,1021.0
+U206667,Treatment,North America,Free,538.0
+U171387,Treatment,North America,Premium,457.0
+U334297,Control,Europe,Premium,1005.0
+U657205,Treatment,Europe,Premium,269.0
+U951122,Treatment,MEA,Premium,1329.0
+U905739,Control,Europe,Premium,1033.0
+U703209,Control,APAC,Premium,1926.0
+U584571,Control,LATAM,Free,846.0
+U642217,Treatment,LATAM,Premium,1145.0
+U997754,Control,MEA,Free,1247.0
+U548080,Treatment,Europe,Premium,1567.0
+U493854,Treatment,Europe,Premium,780.0
+U713410,Control,North America,Premium,471.0
+U177439,Control,North America,Free,860.0
+U386822,Treatment,APAC,Free,1328.0
+U813768,Control,Europe,Free,1447.0
+U584926,Treatment,Europe,Free,142.0
+U838896,Treatment,North America,Free,3530.0
+U530835,Treatment,Europe,Premium,
+U798242,Control,LATAM,Free,1158.0
+U622170,Treatment,North America,Premium,1684.0
+U170187,Treatment,APAC,Free,663.0
+U411755,Control,LATAM,Premium,1485.0
+U956868,Treatment,APAC,Premium,141.0
+U859820,Treatment,North America,Premium,1521.0
+U960845,Treatment,LATAM,Premium,1400.0
+U173537,Control,North America,Premium,937.0
+U202747,Control,Europe,Premium,1331.0
+U984011,Control,LATAM,Premium,2028.0
+U164710,Control,LATAM,Free,1719.0
+U259366,Control,North America,Free,693.0
+U777804,Treatment,APAC,Premium,854.0
+U521354,Control,North America,Free,607.0
+U215018,Treatment,Europe,Free,549.0
+U444128,Control,MEA,Premium,1242.0
+U231886,Control,Europe,Free,602.0
+U426951,Control,APAC,Premium,1240.0
+U281924,Control,Europe,Premium,663.0
+U244952,Treatment,APAC,Premium,737.0
+U592575,Treatment,LATAM,Premium,362.0
+U472799,Treatment,LATAM,Premium,1219.0
+U599307,Control,North America,Premium,132.0
+U695996,Treatment,LATAM,Premium,1559.0
+U805572,Control,North America,Free,2745.0
+U180887,Treatment,MEA,Premium,755.0
+U126809,Treatment,North America,Premium,731.0
+U941601,Control,North America,Free,183.0
+U856130,Control,APAC,Free,482.0
+U962307,Control,North America,Premium,1341.0
+U942764,Control,Europe,Free,1470.0
+U551651,Treatment,LATAM,Premium,826.0
+U370513,Treatment,North America,Free,1288.0
+U149452,Treatment,North America,Free,369.0
+U664931,Control,Europe,Premium,966.0
+U744386,Treatment,North America,Free,1826.0
+U672636,Control,North America,Free,1099.0
+U314906,Treatment,North America,Premium,2008.0
+U696443,Control,Europe,Free,2048.0
+U867785,Control,Europe,Free,1010.0
+U749558,Treatment,North America,Premium,11.0
+U709793,Control,LATAM,Premium,
+U993982,Control,LATAM,Premium,246.0
+U501078,Treatment,North America,Free,39.0
+U717722,Control,Europe,Free,112.0
+U348608,Treatment,APAC,Premium,1518.0
+U106569,Treatment,Europe,Premium,1016.0
+U204077,Treatment,Europe,Free,842.0
+U720464,Treatment,Europe,Premium,1084.0
+U440996,Treatment,North America,Free,120.0
+U615490,Treatment,APAC,Premium,605.0
+U658021,Treatment,APAC,Premium,423.0
+U851982,Treatment,APAC,Premium,796.0
+U578680,Control,North America,Premium,817.0
+U743202,Control,Europe,Free,1052.0
+U657228,Treatment,North America,Premium,1164.0
+U833900,Control,Europe,Free,127.0
+U648516,Control,Europe,Premium,612.0
+U517661,Control,LATAM,Premium,720.0
+U276825,Treatment,North America,Free,239.0
+U202071,Control,APAC,Free,216.0
+U956005,Treatment,North America,Free,113.0
+U762783,Treatment,North America,Free,187.0
+U642324,Treatment,APAC,Free,1283.0
+U787594,Control,LATAM,Premium,152.0
+U442981,Treatment,Europe,Free,181.0
+U474419,Treatment,Europe,Premium,772.0
+U798778,Control,North America,Premium,964.0
+U669870,Treatment,North America,Premium,703.0
+U475665,Control,Europe,Free,285.0
+U651511,Treatment,Europe,Premium,221.0
+U343268,Control,LATAM,Premium,757.0
+U673355,Treatment,North America,Premium,646.0
+U211061,Treatment,LATAM,Premium,526.0
+U854425,Control,APAC,Premium,1245.0
+U151273,Treatment,North America,Free,615.0
+U766596,Control,North America,Premium,202.0
+U953959,Treatment,Europe,Free,529.0
+U207950,Treatment,APAC,Premium,1041.0
+U248638,Control,LATAM,Free,586.0
+U531686,Control,LATAM,Free,1028.0
+U749153,Treatment,EUROPE,Free,1172.0
+U841238,Control,North America,Free,616.0
+U631532,Treatment,Europe,Premium,701.0
+U507883,Treatment,North America,Free,558.0
+U338123,Treatment,LATAM,Premium,1044.0
+U537844,Control,North America,Free,544.0
+U555500,Treatment,North America,Premium,974.0
+U712893,Treatment,Europe,Free,827.0
+U851379,Control,Europe,Free,111.0
+U768097,Control,LATAM,Free,1011.0
+U317122,Control,Europe,Premium,772.0
+U308791,Control,APAC,Premium,1600.0
+U861620,Treatment,APAC,Premium,250.0
+U804040,Control,APAC,Free,836.0
+U576591,Treatment,LATAM,Free,485.0
+U358413,Control,LATAM,Free,126.0
+U214920,Control,LATAM,Free,87.0
+U552266,Control,Europe,Premium,
+U715912,Treatment,Europe,Free,838.0
+U891212,Treatment,Europe,Premium,600.0
+U626696,Control,North America,Premium,168.0
+U668143,Treatment,North America,Free,1746.0
+U766893,Control,APAC,Free,387.0
+U140601,Control,North America,Free,867.0
+U111206,Control,Europe,Free,750.0
+U546408,Treatment,LATAM,Free,2293.0
+U267712,Treatment,North America,Premium,688.0
+U521224,Treatment,APAC,Free,
+U158876,Control,North America,Premium,847.0
+U172575,Control,APAC,Premium,914.0
+U319981,Treatment,APAC,Premium,3335.0
+U435829,Control,North America,Premium,679.0
+U367475,Treatment,North America,Free,242.0
+U322437,Treatment,Europe,Free,527.0
+U361601,Control,Europe,Free,846.0
+U362302,Treatment,North America,Premium,959.0
+U598386,Treatment,MEA,Premium,152.0
+U281450,Control,North America,Free,478.0
+U730385,Treatment,APAC,Free,2207.0
+U821040,Treatment,North America,Free,325.0
+U597481,Control,MEA,Free,1264.0
+U321814,Treatment,North America,Premium,541.0
+U146650,Control,Europe,Free,710.0
+U333185,Treatment,Europe,Free,173.0
+U489225,Treatment,North America,Free,583.0
+U925590,Treatment,APAC,Free,839.0
+U500943,Control,North America,Free,686.0
+U287748,Treatment,Europe,Premium,611.0
+U953441,Control,Europe,Free,1048.0
+U593127,Control,LATAM,Premium,220.0
+U214842,Control,North America,Free,867.0
+U549527,Treatment,North America,Free,78.0
+U686610,Control,North America,Free,1506.0
+U530362,Control,Europe,Free,627.0
+U445088,Treatment,North America,Free,1208.0
+U553229,Control,MEA,Free,24.0
+U933032,Control,Europe,Premium,1094.0
+U103601,Control,LATAM,Premium,376.0
+U896415,Control,Europe,Premium,713.0
+U638267,Treatment, north america ,Free,1106.0
+U249125,Control,Europe,Premium,665.0
+U185325,Control,North America,Premium,1017.0
+U404100,Treatment,Europe,Free,547.0
+U731460,Treatment,Europe,Free,1585.0
+U771545,Treatment,Europe,Free,626.0
+U352525,Treatment,MEA,Premium,635.0
+U773660,Treatment,North America,Free,644.0
+U466470,Control,Europe,Free,699.0
+U328471,Treatment,North America,Premium,231.0
+U958324,Treatment,Europe,Free,316.0
+U140300,Control,LATAM,Premium,1329.0
+U639807,Control,North America,Premium,1207.0
+U671443,Control,Europe,Premium,1156.0
+U838074,Treatment,Europe,Premium,954.0
+U185364,Treatment,North America,Free,469.0
+U980871,Treatment,MEA,Premium,431.0
+U218656,Control,Europe,Premium,677.0
+U785783,Control,APAC,Premium,1468.0
+U630295,Control,Europe,Free,805.0
+U152189,Treatment,MEA,Free,302.0
+U687103,Treatment,North America,Free,187.0
+U495296,Treatment,Europe,Free,1233.0
+U491796,Treatment,APAC,Premium,1776.0
+U796470,Treatment,Europe,Premium,144.0
+U960771,Treatment,Europe,Premium,1260.0
+U974066,Control,MEA,Premium,938.0
+U926003,Control,Europe,Free,365.0
+U175847,Control,LATAM,Free,812.0
+U220409,Control,LATAM,Free,260.0
+U692316,Control,APAC,Free,590.0
+U179781,Control,APAC,Free,705.0
+U930476,Treatment,Europe,Free,1575.0
+U769088,Control,North America,Free,568.0
+U286002,Treatment,North America,Premium,400.0
+U404351,Treatment,LATAM,Free,889.0
+U979256,Treatment,APAC,Free,1036.0
+U586550,Treatment,Europe,Free,388.0
+U570888,Control,North America,Premium,292.0
+U763689,Treatment,North America,Premium,314.0
+U317872,Control,Europe,Free,1579.0
+U474977,Treatment,APAC,Free,1005.0
+U171107,Control,North America,Premium,540.0
+U136780,Control,LATAM,Premium,1409.0
+U266966,Treatment,APAC,Premium,385.0
+U940688,Treatment,MEA,Free,657.0
+U180788,Control,North America,Premium,256.0
+U140189,Treatment,MEA,Premium,1368.0
+U546546,Control,LATAM,Free,360.0
+U428884,Treatment,APAC,Premium,367.0
+U906344,Control,North America,Free,903.0
+U970760,Control,Europe,Premium,69.0
+U171891,Control,LATAM,Free,207.0
+U614054,Control,Europe,Free,1131.0
+U427716,Control,Europe,Premium,310.0
+U199768,Control,Europe,Premium,2773.0
+U183763,Control,Europe,Free,782.0
+U763187,Control,North America,Premium,133.0
+U779653,Treatment,Europe,Free,1835.0
+U500958,Control,North America,Free,782.0
+U521503,Treatment,APAC,Premium,601.0
+U789722,Treatment,MEA,Free,780.0
+U117517,Control,North America,Free,132.0
+U525758,Treatment,North America,Premium,674.0
+U521399,Control,North America,Free,330.0
+U900153,Control,Europe,Free,643.0
+U666628,Treatment,APAC,Free,479.0
+U671238,Treatment,Europe,Premium,751.0
+U753649,Treatment,North America,Free,540.0
+U183876,Control,North America,Free,455.0
+U792045,Treatment,North America,Premium,299.0
+U214464,Control,APAC,Free,139.0
+U174044,Control,LATAM,Free,109.0
+U905381,Control,Europe,Premium,214.0
+U737417,Treatment,Europe,Premium,1072.0
+U539178,Control,MEA,Free,284.0
+U686664,Treatment,Europe,Premium,396.0
+U126036,Treatment,APAC,Premium,399.0
+U744678,Treatment,APAC,Free,485.0
+U607213,Treatment,Europe,Premium,948.0
+U299866,Treatment,APAC,Premium,535.0
+U747452,Control,North America,Premium,1211.0
+U969875,Control,LATAM,Premium,216.0
+U651533,Treatment,North America,Premium,1126.0
+U694884,Control,Europe,Premium,1695.0
+U662156,Control,North America,Premium,667.0
+U321079,Control,North America,Premium,266.0
+U229129,Control,North America,Premium,961.0
+U659803,Control,Europe,Premium,676.0
+U518026,Control,Europe,Premium,846.0
+U281635,Treatment,Europe,Free,1235.0
+U683719,Control,Europe,Free,504.0
+U309888,Treatment,MEA,Premium,443.0
+U261017,Treatment,MEA,Free,3122.0
+U237951,Control,North America,Premium,970.0
+U318843,Treatment,Europe,Premium,1382.0
+U910759,Treatment,LATAM,Premium,1187.0
+U547976,Treatment,LATAM,Free,1393.0
+U311345,Control,EUROPE,Premium,867.0
+U578428,Control,LATAM,Free,1283.0
+U246234,Control,North America,Free,398.0
+U851068,Treatment,Europe,Free,135.0
+U837164,Treatment,LATAM,Free,318.0
+U131606,Treatment,LATAM,Free,604.0
+U319214,Treatment,APAC,Premium,545.0
+U474258,Treatment,NORTH AMERICA,Premium,679.0
+U807106,Treatment,North America,Free,379.0
+U538265,Control,North America,Free,82.0
+U865479,Treatment,North America,Free,493.0
+U225484,Control,North America,Premium,191.0
+U415072,Control,Europe,Premium,658.0
+U533312,Treatment,Europe,Free,896.0
+U797410,Treatment,LATAM,Free,485.0
+U867665,Control,Europe,Free,251.0
+U200693,Control,North America,Premium,705.0
+U511683,Control,LATAM,Free,3231.0
+U800401,Control, north america ,Free,969.0
+U487690,Control,APAC,Free,1020.0
+U397382,Treatment,North America,Free,446.0
+U745528,Treatment,Europe,Free,339.0
+U669659,Control,APAC,Free,1395.0
+U515414,Control,Europe,Premium,49.0
+U374512,Control,LATAM,Free,369.0
+U870847,Control,LATAM,Free,1948.0
+U401143,Treatment,North America,Premium,628.0
+U912574,Treatment,LATAM,Free,154.0
+U863680,Treatment,APAC,Premium,915.0
+U160339,Control,MEA,Premium,488.0
+U526743,Treatment,Europe,Free,119.0
+U760016,Control,Europe,Premium,796.0
+U101379,Control,APAC,Premium,713.0
+U373610,Treatment,Europe,Premium,683.0
+U145786,Treatment,North America,Free,960.0
+U979935,Treatment,North America,Free,236.0
+U136907,Treatment,North America,Free,855.0
+U700305,Treatment,Europe,Premium,751.0
+U235320,Treatment,North America,Premium,1376.0
+U768443,Control,North America,Free,365.0
+U394752,Control,North America,Free,1539.0
+U202114,Control,MEA,Free,1173.0
+U314218,Control,North America,Free,609.0
+U437068,Control,North America,Premium,683.0
+U341353,Control,Europe,Free,55.0
+U870167,Treatment,North America,Premium,669.0
+U411476,Treatment,MEA,Premium,1118.0
+U121288,Treatment,APAC,Premium,540.0
+U348103,Control,Europe,Premium,1374.0
+U944871,Treatment,Europe,Free,926.0
+U204041,Control,Europe,Premium,2336.0
+U370583,Control,North America,Premium,387.0
+U787422,Control,North America,Free,1046.0
+U335526,Control,North America,Free,196.0
+U102917,Control,North America,Free,579.0
+U804306,Treatment,EUROPE,Free,964.0
+U375129,Treatment,North America,Free,
+U951732,Treatment,North America,Free,507.0
+U397170,Control,Europe,Premium,1473.0
+U924904,Treatment,Europe,Free,1687.0
+U836071,Treatment,North America,Free,391.0
+U395207,Control,North America,Free,593.0
+U798248,Treatment,North America,Free,546.0
+U872338,Control,North America,Premium,445.0
+U646058,Control,APAC,Free,1618.0
+U101493,Control,APAC,Free,1606.0
+U971113,Treatment,Europe,Free,561.0
+U598265,Control,Europe,Free,1043.0
+U258633,Control,LATAM,Premium,1363.0
+U268885,Control,LATAM,Premium,804.0
+U560660,Treatment,North America,Free,528.0
+U929971,Control,North America,Premium,368.0
+U618250,Control,Europe,Free,1112.0
+U508379,Control,Europe,Premium,213.0
+U239890,Treatment,North America,Premium,539.0
+U154162,Treatment,North America,Free,469.0
+U155260,Treatment,Europe,Premium,200.0
+U791084,Control,North America,Premium,629.0
+U280048,Control,Europe,Free,
+U268520,Treatment,LATAM,Premium,305.0
+U714549,Control,Europe,Premium,1578.0
+U209049,Treatment,NORTH AMERICA,Free,1117.0
+U847048,Treatment,North America,Premium,691.0
+U803666,Control,APAC,Premium,1235.0
+U871973,Treatment,Europe,Free,1434.0
+U633516,Treatment,North America,Free,
+U834373,Control,North America,Premium,385.0
+U340551,Control,APAC,Premium,1234.0
+U364880,Control,APAC,Free,585.0
+U671032,Treatment,APAC,Free,784.0
+U313490,Control,LATAM,Free,402.0
+U642344,Control,Europe,Premium,667.0
+U699639,Treatment,Europe,Premium,1246.0
+U542123,Control,North America,Free,1899.0
+U217615,Control,LATAM,Premium,620.0
+U528953,Treatment,Europe,Premium,314.0
+U376948,Control, north america ,Free,2083.0
+U205126,Control,APAC,Free,373.0
+U505917,Control,Europe,Premium,138.0
+U304707,Control,North America,Free,429.0
+U120461,Control,Europe,Free,63.0
+U933028,Treatment,APAC,Premium,1388.0
+U131550,Treatment,APAC,Premium,352.0
+U683550,Control,Europe,Free,246.0
+U718781,Treatment,MEA,Premium,732.0
+U906499,Treatment,APAC,Premium,1899.0
+U274601,Treatment,APAC,Free,938.0
+U748082,Treatment,APAC,Free,209.0
+U588855,Treatment,Europe,Premium,2558.0
+U758592,Treatment,APAC,Premium,862.0
+U844397,Control,Europe,Free,1295.0
+U865627,Treatment,LATAM,Premium,167.0
+U358402,Control,North America,Premium,2285.0
+U562866,Control,LATAM,Premium,500.0
+U798703,Treatment,MEA,Premium,153.0
+U342871,Control,Europe,Free,797.0
+U759605,Control,MEA,Free,1295.0
+U684901,Control,Europe,Free,1039.0
+U568297,Control,North America,Premium,1026.0
+U685796,Treatment,North America,Premium,976.0
+U218584,Treatment,APAC,Premium,746.0
+U659915,Control,Europe,Free,166.0
+U504076,Control,Europe,Premium,578.0
+U728198,Control,LATAM,Free,518.0
+U187167,Control,Europe,Free,1630.0
+U525776,Treatment,Europe,Free,1389.0
+U429530,Treatment,APAC,Premium,466.0
+U691132,Control,LATAM,Free,1159.0
+U119844,Control,APAC,Premium,643.0
+U484646,Treatment,Europe,Premium,139.0
+U819933,Treatment,MEA,Premium,56.0
+U305773,Control,North America,Free,1067.0
+U756262,Control,North America,Premium,275.0
+U905847,Control,North America,Premium,274.0
+U445976,Treatment,Europe,Free,381.0
+U249802,Control,LATAM,Premium,1083.0
+U190243,Control,LATAM,Premium,1402.0
+U562445,Treatment,Europe,Free,1382.0
+U324831,Treatment,North America,Free,122.0
+U596810,Control,LATAM,Free,368.0
+U552840,Control,MEA,Free,319.0
+U473217,Control,North America,Premium,1082.0
+U305087,Treatment,North America,Free,373.0
+U648639,Control,North America,Free,608.0
+U922921,Treatment,Europe,Free,1150.0
+U277955,Treatment,North America,Free,700.0
+U936978,Treatment,Europe,Free,859.0
+U433405,Treatment,LATAM,Premium,591.0
+U224181,Control,Europe,Free,1306.0
+U723696,Control,Europe,Free,1394.0
+U399621,Treatment,North America,Premium,975.0
+U487379,Control,APAC,Premium,1398.0
+U797695,Control,Europe,Free,3101.0
+U656886,Control,Europe,Free,1137.0
+U360144,Control,North America,Free,659.0
+U650040,Control,LATAM,Free,873.0
+U548018,Treatment,APAC,Free,1493.0
+U364948,Treatment,North America,Premium,495.0
+U715969,Treatment,North America,Premium,464.0
+U672183,Treatment,North America,Free,863.0
+U702273,Control,LATAM,Premium,650.0
+U465365,Treatment,MEA,Free,316.0
+U509653,Treatment,Europe,Free,770.0
+U508904,Control,Europe,Free,1699.0
+U453417,Treatment,APAC,Free,953.0
+U822077,Control,LATAM,Premium,262.0
+U813467,Control,North America,Free,1060.0
+U196678,Control,North America,Premium,554.0
+U564753,Control,Europe,Free,2467.0
+U181868,Control,APAC,Premium,1003.0
+U281691,Treatment,LATAM,Premium,426.0
+U428612,Treatment,LATAM,Free,1115.0
+U164504,Control,APAC,Free,810.0
+U195809,Treatment,North America,Premium,1593.0
+U344259,Control,Europe,Free,462.0
+U138026,Treatment,North America,Free,1001.0
+U901746,Control,APAC,Premium,167.0
+U576198,Control,Europe,Free,746.0
+U258005,Treatment,North America,Free,256.0
+U309356,Treatment,North America,Free,791.0
+U963949,Treatment,LATAM,Free,920.0
+U577182,Treatment,LATAM,Free,975.0
+U877919,Treatment,LATAM,Free,461.0
+U608845,Control,North America,Free,763.0
+U381562,Control,APAC,Free,1465.0
+U133209,Control,APAC,Free,2034.0
+U776312,Control,LATAM,Premium,782.0
+U225623,Control,LATAM,Premium,1491.0
+U725544,Control,APAC,Free,340.0
+U445661,Control,MEA,Free,520.0
+U489480,Treatment,Europe,Premium,844.0
+U532759,Control,Europe,Free,653.0
+U290658,Treatment,Europe,Free,603.0
+U306576,Treatment,APAC,Premium,1390.0
+U405905,Control,LATAM,Free,294.0
+U338540,Control,North America,Premium,321.0
+U382381,Treatment,North America,Premium,220.0
+U668966,Treatment,APAC,Premium,862.0
+U869919,Control,APAC,Free,553.0
+U511699,Control,MEA,Free,1301.0
+U437884,Treatment,Europe,Free,811.0
+U939733,Treatment,APAC,Premium,453.0
+U728351,Control,APAC,Premium,399.0
+U764217,Control,Europe,Premium,57.0
+U426442,Treatment,North America,Free,624.0
+U104875,Control,MEA,Premium,259.0
+U177093,Treatment,North America,Free,1412.0
+U996172,Control,Europe,Premium,533.0
+U471751,Treatment,LATAM,Free,185.0
+U434786,Control,LATAM,Free,1600.0
+U936799,Control,North America,Free,631.0
+U145044,Treatment,LATAM,Premium,1056.0
+U635340,Control,North America,Free,458.0
+U923925,Treatment,APAC,Free,1636.0
+U703313,Control,North America,Free,356.0
+U101107,Treatment,LATAM,Free,553.0
+U648875,Treatment,APAC,Premium,130.0
+U477660,Treatment,North America,Free,1610.0
+U586011,Control,North America,Free,413.0
+U990564,Treatment,APAC,Premium,877.0
+U875224,Treatment,North America,Free,965.0
+U565334,Treatment,North America,Free,1441.0
+U191535,Control,Europe,Free,831.0
+U634709,Control,MEA,Free,659.0
+U199491,Control,Europe,Free,1344.0
+U579867,Treatment,Europe,Free,954.0
+U181595,Treatment,MEA,Free,586.0
+U669615,Control,Europe,Premium,1657.0
+U960721,Treatment,Europe,Premium,1006.0
+U481199,Treatment,Europe,Premium,239.0
+U129069,Control,Europe,Free,1854.0
+U502565,Control,Europe,Free,449.0
+U833705,Treatment,LATAM,Premium,1436.0
+U355747,Treatment,North America,Premium,188.0
+U147912,Control,LATAM,Free,1338.0
+U575216,Treatment,North America,Free,253.0
+U433705,Treatment,Europe,Free,815.0
+U520300,Treatment,North America,Free,987.0
+U780569,Treatment,Europe,Free,596.0
+U742027,Treatment,LATAM,Free,718.0
+U601683,Treatment,EUROPE,Premium,304.0
+U241495,Control,North America,Premium,1247.0
+U355545,Treatment,North America,Premium,846.0
+U625372,Control,APAC,Free,354.0
+U576359,Treatment,North America,Premium,
+U670051,Control,APAC,Premium,888.0
+U122310,Treatment,Europe,Free,743.0
+U272594,Control,North America,Premium,58.0
+U529295,Control,LATAM,Premium,532.0
+U582332,Control,Europe,Premium,1234.0
+U602662,Treatment,North America,Free,1025.0
+U350645,Treatment,MEA,Premium,1004.0
+U474315,Control,North America,Free,842.0
+U845854,Treatment, europe ,Free,1330.0
+U199287,Treatment,Europe,Free,446.0
+U744901,Control,Europe,Free,373.0
+U922552,Treatment,APAC,Free,2157.0
+U210161,Control, north america ,Free,410.0
+U937360,Control, mea ,Premium,231.0
+U326894,Treatment,LATAM,Free,587.0
+U811451,Control,MEA,Premium,763.0
+U434307,Treatment,APAC,Free,
+U481691,Treatment,MEA,Premium,533.0
+U835629,Treatment,LATAM,Premium,529.0
+U710253,Treatment,Europe,Premium,713.0
+U274860,Treatment,Europe,Premium,464.0
+U255452,Treatment,LATAM,Premium,190.0
+U718965,Control,Europe,Free,249.0
+U225458,Control,LATAM,Free,1577.0
+U393970,Treatment,North America,Free,1151.0
+U188962,Control,APAC,Free,695.0
+U972333,Control,North America,Free,1022.0
+U713914,Control,MEA,Free,1175.0
+U381049,Treatment,NORTH AMERICA,Premium,427.0
+U146044,Control,North America,Premium,301.0
+U609491,Control,APAC,Premium,1472.0
+U978413,Control,APAC,Premium,78.0
+U916917,Control,LATAM,Free,1033.0
+U519805,Treatment,MEA,Free,807.0
+U527879,Control,North America,Premium,1377.0
+U174231,Treatment,APAC,Premium,1059.0
+U318831,Treatment, europe ,Free,1018.0
+U967160,Control,Europe,Free,328.0
+U349697,Treatment,Europe,Free,1205.0
+U500285,Treatment,North America,Free,948.0
+U961720,Treatment,Europe,Free,366.0
+U644029,Control,LATAM,Free,812.0
+U627328,Control,North America,Premium,271.0
+U902029,Treatment,MEA,Premium,625.0
+U451638,Treatment,Europe,Free,2725.0
+U194020,Treatment,North America,Premium,313.0
+U434941,Treatment,LATAM,Premium,188.0
+U670411,Control,North America,Free,252.0
+U621507,Treatment,North America,Premium,619.0
+U935991,Control,LATAM,Free,1112.0
+U212962,Treatment,North America,Premium,728.0
+U199404,Control,North America,Free,215.0
+U977937,Control,LATAM,Premium,1103.0
+U605073,Treatment,North America,Premium,114.0
+U107676,Treatment,APAC,Free,238.0
+U137338,Treatment,APAC,Free,449.0
+U220709,Control,North America,Free,1438.0
+U477478,Control,Europe,Premium,750.0
+U868691,Treatment,North America,Premium,771.0
+U836218,Control,LATAM,Free,219.0
+U786301,Control,North America,Premium,486.0
+U194578,Treatment,MEA,Free,1302.0
+U994692,Control,North America,Free,906.0
+U109160,Treatment,LATAM,Free,1130.0
+U229147,Control,North America,Free,692.0
+U315312,Treatment,North America,Free,1312.0
+U697599,Treatment,Europe,Free,217.0
+U392286,Treatment,Europe,Free,608.0
+U578201,Treatment,MEA,Premium,1002.0
+U540713,Control,North America,Free,155.0
+U807906,Treatment,North America,Premium,39.0
+U888193,Treatment,Europe,Premium,2158.0
+U145399,Treatment,Europe,Premium,757.0
+U757866,Treatment,APAC,Free,139.0
+U363398,Treatment,APAC,Premium,743.0
+U175545,Treatment,APAC,Free,242.0
+U253808,Treatment,North America,Free,328.0
+U143744,Control,Europe,Free,1470.0
+U255410,Control,LATAM,Free,458.0
+U236651,Treatment,Europe,Premium,455.0
+U471171,Control,LATAM,Premium,235.0
+U949459,Treatment,North America,Premium,539.0
+U465104,Treatment,Europe,Free,793.0
+U792215,Control,APAC,Premium,458.0
+U396211,Treatment,North America,Premium,2524.0
+U993668,Treatment,MEA,Free,291.0
+U599515,Treatment,Europe,Free,289.0
+U152306,Control,North America,Premium,522.0
+U207471,Treatment,North America,Free,2333.0
+U617495,Control,North America,Free,1143.0
+U708126,Treatment,Europe,Premium,446.0
+U997207,Control,North America,Free,446.0
+U684626,Treatment,LATAM,Free,281.0
+U312323,Treatment,APAC,Free,510.0
+U761504,Treatment,Europe,Premium,595.0
+U883608,Control,North America,Premium,1107.0
+U316849,Treatment,Europe,Premium,952.0
+U378484,Treatment,APAC,Premium,497.0
+U891280,Control,Europe,Premium,1794.0
+U118981,Treatment,North America,Premium,397.0
+U235186,Treatment,Europe,Free,185.0
+U846982,Treatment,Europe,Free,820.0
+U792780,Treatment,Europe,Premium,1399.0
+U485280,Treatment,North America,Premium,672.0
+U220534,Treatment,MEA,Free,226.0
+U399979,Treatment,North America,Premium,773.0
+U376640,Control,North America,Premium,844.0
+U151330,Treatment,North America,Free,908.0
+U407743,Treatment,Europe,Free,784.0
+U912429,Treatment,Europe,Free,1523.0
+U320225,Treatment,North America,Free,275.0
+U649534,Control,Europe,Free,19.0
+U993036,Control,LATAM,Free,114.0
+U791447,Treatment,North America,Free,223.0
+U803282,Control,APAC,Free,1240.0
+U755306,Control,Europe,Premium,539.0
+U672938,Control,North America,Premium,1888.0
+U352444,Treatment,MEA,Free,257.0
+U115873,Control,APAC,Free,1863.0
+U244097,Control,Europe,Free,331.0
+U283700,Control,APAC,Free,594.0
+U869216,Control,Europe,Free,140.0
+U225949,Control,Europe,Free,1703.0
+U426328,Treatment,APAC,Free,657.0
+U407933,Treatment,APAC,Premium,2597.0
+U103932,Control,North America,Free,1442.0
+U690583,Treatment,LATAM,Premium,
+U432840,Control,Europe,Free,379.0
+U840155,Control,North America,Free,1277.0
+U821947,Treatment,MEA,Premium,709.0
+U597261,Treatment,Europe,Free,362.0
+U489001,Treatment,Europe,Premium,748.0
+U708405,Control,Europe,Premium,94.0
+U702588,Control,Europe,Premium,920.0
+U819410,Control,North America,Free,1047.0
+U178738,Control,MEA,Free,249.0
+U309878,Treatment,LATAM,Free,1551.0
+U585894,Control,LATAM,Free,1338.0
+U407813,Treatment,Europe,Free,862.0
+U501112,Treatment,North America,Premium,311.0
+U747334,Treatment,NORTH AMERICA,Premium,1091.0
+U895993,Control,Europe,Free,516.0
+U984520,Treatment,North America,Free,798.0
+U206932,Control,LATAM,Premium,1163.0
+U582680,Treatment,APAC,Premium,188.0
+U590663,Control,Europe,Free,134.0
+U743587,Treatment,Europe,Free,476.0
+U794240,Treatment,LATAM,Premium,2317.0
+U312494,Treatment,North America,Premium,2666.0
+U106604,Treatment,MEA,Premium,906.0
+U503319,Treatment,Europe,Free,1363.0
+U793394,Treatment,North America,Free,678.0
+U560439,Control,North America,Free,748.0
+U502952,Treatment,MEA,Free,594.0
+U607159,Treatment,North America,Premium,1475.0
+U641285,Treatment,LATAM,Free,1902.0
+U692725,Control,North America,Premium,735.0
+U697722,Treatment,North America,Premium,746.0
+U969552,Control,APAC,Premium,617.0
+U438958,Treatment,North America,Premium,1933.0
+U227907,Control,North America,Premium,1250.0
+U390001,Control,Europe,Free,304.0
+U806033,Control,APAC,Free,2271.0
+U239363,Control,Europe,Free,55.0
+U319073,Control,North America,Premium,1808.0
+U760778,Treatment,MEA,Premium,1397.0
+U464595,Control,LATAM,Free,
+U740847,Treatment,APAC,Free,724.0
+U938514,Control,APAC,Free,641.0
+U759685,Treatment,LATAM,Free,317.0
+U233010,Treatment,Europe,Premium,2156.0
+U306096,Control,Europe,Free,708.0
+U629552,Treatment,LATAM,Premium,312.0
+U685273,Treatment,LATAM,Premium,2071.0
+U818698,Treatment,MEA,Free,978.0
+U805415,Control,Europe,Free,1020.0
+U307144,Control,North America,Premium,2378.0
+U606401,Treatment,Europe,Premium,1119.0
+U132468,Control,LATAM,Free,429.0
+U728399,Treatment,Europe,Free,1118.0
+U762739,Control,APAC,Premium,343.0
+U701930,Treatment,Europe,Premium,498.0
+U910214,Control,North America,Premium,885.0
+U346881,Control,Europe,Premium,1349.0
+U803852,Treatment,LATAM,Premium,450.0
+U665675,Treatment,APAC,Free,627.0
+U349717,Treatment,Europe,Premium,622.0
+U737134,Treatment,Europe,Free,1508.0
+U572257,Control,Europe,Premium,723.0
+U384244,Control,Europe,Premium,2252.0
+U972120,Control,North America,Premium,498.0
+U476140,Treatment,APAC,Free,466.0
+U544558,Control,APAC,Premium,1787.0
+U550593,Treatment,Europe,Premium,1056.0
+U755082,Control,Europe,Premium,3117.0
+U969871,Control,North America,Premium,1743.0
+U276880,Control,Europe,Free,240.0
+U223853,Control,Europe,Free,711.0
+U475798,Control,LATAM,Premium,884.0
+U890863,Treatment,North America,Premium,840.0
+U527258,Control,LATAM,Premium,635.0
+U830683,Treatment,North America,Premium,828.0
+U734604,Treatment,LATAM,Free,860.0
+U811520,Treatment,LATAM,Free,456.0
+U862503,Treatment,North America,Premium,1468.0
+U715547,Control,Europe,Free,2087.0
+U875181,Control,APAC,Premium,1184.0
+U747463,Control,LATAM,Premium,957.0
+U824649,Treatment,North America,Premium,677.0
+U379262,Treatment,Europe,Free,879.0
+U842201,Control,Europe,Premium,943.0
+U731673,Control,LATAM,Free,318.0
+U603518,Treatment,LATAM,Free,
+U213248,Treatment,North America,Free,525.0
+U751103,Treatment,LATAM,Free,1849.0
+U962185,Treatment,LATAM,Premium,809.0
+U225371,Treatment,APAC,Premium,1436.0
+U579865,Treatment,North America,Free,1172.0
+U269969,Control,Europe,Premium,243.0
+U279329,Control,Europe,Free,1742.0
+U988008,Treatment,North America,Premium,395.0
+U613004,Treatment,Europe,Premium,497.0
+U453303,Control,North America,Premium,533.0
+U981654,Treatment,North America,Free,166.0
+U965236,Control, latam ,Free,836.0
+U961031,Treatment,North America,Free,1496.0
+U386105,Control,LATAM,Premium,1820.0
+U759080,Treatment,North America,Premium,635.0
+U733500,Treatment,Europe,Free,719.0
+U361052,Control,Europe,Free,1227.0
+U169727,Control,APAC,Premium,648.0
+U858846,Treatment,APAC,Free,1586.0
+U621362,Control,Europe,Premium,693.0
+U581177,Control,LATAM,Premium,351.0
+U341153,Treatment,North America,Free,851.0
+U327598,Control,Europe,Free,199.0
+U272093,Control,North America,Free,843.0
+U211264,Control,Europe,Free,959.0
+U343111,Treatment,North America,Premium,396.0
+U506980,Control,APAC,Premium,933.0
+U378133,Control,Europe,Free,591.0
+U539869,Control,Europe,Free,383.0
+U149719,Control,Europe,Free,173.0
+U875659,Control,North America,Free,221.0
+U528580,Control,North America,Premium,1972.0
+U963662,Control,APAC,Premium,572.0
+U512075,Control,APAC,Premium,943.0
+U596437,Treatment,North America,Free,631.0
+U250562,Control,LATAM,Premium,2004.0
+U489649,Control,Europe,Free,384.0
+U515291,Treatment,North America,Premium,764.0
+U651847,Treatment,Europe,Premium,495.0
+U762088,Treatment,North America,Premium,1426.0
+U551957,Control,North America,Free,936.0
+U613982,Control,LATAM,Free,744.0
+U504007,Control,North America,Premium,250.0
+U957622,Control,APAC,Free,2588.0
+U483764,Control,LATAM,Premium,645.0
+U523047,Treatment,APAC,Free,332.0
+U616243,Control,LATAM,Premium,174.0
+U160927,Treatment,APAC,Free,214.0
+U536669,Control,Europe,Premium,739.0
+U353365,Control,Europe,Free,1441.0
+U551984,Treatment,Europe,Free,893.0
+U469698,Treatment,APAC,Free,184.0
+U905504,Control,North America,Free,738.0
+U268320,Treatment,Europe,Premium,1733.0
+U766852,Control,APAC,Premium,557.0
+U388184,Control,Europe,Premium,895.0
+U728648,Treatment,APAC,Premium,576.0
+U522510,Control,EUROPE,Premium,1036.0
+U286966,Control,North America,Free,379.0
+U131124,Control,Europe,Premium,13.0
+U180058,Control,Europe,Free,
+U950478,Control,North America,Premium,504.0
+U846611,Control,North America,Free,684.0
+U969305,Treatment,North America,Premium,520.0
+U553586,Treatment,APAC,Free,512.0
+U669269,Control,APAC,Free,1449.0
+U296762,Control,Europe,Free,304.0
+U421187,Treatment,North America,Free,741.0
+U627269,Control,Europe,Free,196.0
+U843369,Treatment,APAC,Free,1185.0
+U467106,Treatment,LATAM,Free,877.0
+U759202,Control,North America,Premium,2556.0
+U539813,Control,North America,Free,293.0
+U384692,Control,APAC,Premium,2067.0
+U664138,Control,APAC,Free,329.0
+U635723,Control,North America,Premium,554.0
+U514010,Treatment,APAC,Free,229.0
+U366204,Control,North America,Free,2535.0
+U686492,Treatment,North America,Premium,972.0
+U941498,Treatment,APAC,Premium,980.0
+U371138,Control,Europe,Free,356.0
+U826855,Control,Europe,Free,63.0
+U850737,Control,APAC,Free,537.0
+U797644,Treatment,APAC,Free,460.0
+U710975,Control,North America,Free,122.0
+U658238,Treatment,LATAM,Premium,565.0
+U217837,Treatment,APAC,Free,742.0
+U384995,Treatment,Europe,Premium,1019.0
+U411761,Treatment,MEA,Free,75.0
+U656311,Treatment,LATAM,Free,242.0
+U910879,Treatment,North America,Free,367.0
+U996557,Treatment,North America,Free,1492.0
+U545404,Treatment,APAC,Free,1473.0
+U760613,Treatment,MEA,Premium,936.0
+U248590,Treatment,North America,Premium,557.0
+U800334,Control,North America,Free,1553.0
+U207928,Treatment,APAC,Free,856.0
+U264191,Treatment,North America,Premium,1496.0
+U788824,Treatment,North America,Free,966.0
+U300486,Control,APAC,Free,141.0
+U927371,Treatment,APAC,Premium,62.0
+U371147,Treatment,APAC,Free,514.0
+U969346,Treatment,LATAM,Free,1284.0
+U439022,Control,Europe,Free,455.0
+U820824,Treatment,APAC,Premium,1754.0
+U983573,Treatment,North America,Free,1206.0
+U793984,Treatment,North America,Premium,1653.0
+U510397,Treatment,APAC,Free,525.0
+U930624,Treatment,LATAM,Free,313.0
+U937670,Treatment,APAC,Free,273.0
+U830311,Control, north america ,Premium,1031.0
+U724727,Treatment,MEA,Free,155.0
+U148935,Control,LATAM,Premium,166.0
+U139294,Treatment,LATAM,Free,433.0
+U403818,Treatment,APAC,Free,833.0
+U780036,Control,Europe,Free,372.0
+U612215,Control,LATAM,Free,1475.0
+U687152,Control,LATAM,Free,1669.0
+U429264,Treatment,APAC,Premium,32.0
+U916694,Treatment,APAC,Premium,979.0
+U981856,Control,LATAM,Premium,457.0
+U194488,Treatment,North America,Premium,1324.0
+U726154,Control,North America,Free,1003.0
+U910419,Treatment,MEA,Premium,805.0
+U628279,Control,MEA,Free,644.0
+U147611,Control,MEA,Premium,167.0
+U180750,Control,North America,Premium,2795.0
+U235935,Treatment,Europe,Free,240.0
+U320049,Control,APAC,Premium,2082.0
+U567212,Treatment,APAC,Premium,1140.0
+U578143,Control,North America,Free,476.0
+U264057,Control,LATAM,Premium,420.0
+U407371,Control,North America,Free,160.0
+U365172,Control,Europe,Free,730.0
+U457967,Treatment,North America,Free,153.0
+U637882,Control,North America,Premium,1531.0
+U994231,Treatment,North America,Free,864.0
+U917607,Control,APAC,Premium,694.0
+U116008,Control,LATAM,Free,762.0
+U973318,Control,MEA,Free,889.0
+U630722,Control,Europe,Premium,546.0
+U842834,Treatment,Europe,Free,605.0
+U683070,Treatment,Europe,Premium,2228.0
+U327958,Control,LATAM,Free,1431.0
+U522631,Treatment,Europe,Premium,1106.0
+U543033,Treatment,LATAM,Premium,476.0
+U189750,Treatment,APAC,Free,99.0
+U832881,Treatment,APAC,Free,1019.0
+U240424,Treatment,North America,Free,761.0
+U794529,Treatment,Europe,Premium,595.0
+U489576,Treatment,North America,Premium,670.0
+U441719,Control,North America,Free,253.0
+U232672,Treatment,LATAM,Free,326.0
+U499802,Control,Europe,Premium,1433.0
+U960090,Treatment,LATAM,Free,70.0
+U815378,Treatment,North America,Premium,1298.0
+U562183,Control,MEA,Premium,1806.0
+U992647,Treatment,MEA,Free,1004.0
+U142030,Treatment,Europe,Free,970.0
+U924580,Control,APAC,Free,324.0
+U748008,Treatment,North America,Free,368.0
+U278137,Treatment,LATAM,Premium,509.0
+U785672,Treatment,APAC,Premium,206.0
+U988322,Control,APAC,Premium,345.0
+U311207,Control,APAC,Free,759.0
+U166498,Treatment,Europe,Free,484.0
+U473082,Control,APAC,Premium,808.0
+U932360,Control,LATAM,Free,1429.0
+U636824,Control,North America,Free,804.0
+U225814,Control,North America,Free,977.0
+U266371,Treatment,APAC,Premium,150.0
+U860239,Treatment,LATAM,Premium,1412.0
+U841470,Treatment,Europe,Free,145.0
+U813781,Treatment,APAC,Premium,457.0
+U782752,Control,LATAM,Free,266.0
+U165050,Control,Europe,Free,100.0
+U108897,Control,Europe,Free,774.0
+U607651,Control,LATAM,Premium,1037.0
+U866796,Control,APAC,Free,1836.0
+U386062,Control,Europe,Free,856.0
+U503663,Control,Europe,Free,343.0
+U637545,Control,LATAM,Premium,475.0
+U884828,Treatment,LATAM,Premium,119.0
+U159737,Treatment,APAC,Free,516.0
+U784557,Treatment,North America,Premium,687.0
+U787859,Treatment,APAC,Free,1007.0
+U717565,Treatment,Europe,Free,1202.0
+U825766,Control,North America,Premium,984.0
+U634929,Treatment,LATAM,Premium,312.0
+U385414,Control,LATAM,Free,237.0
+U378533,Control,Europe,Premium,1143.0
+U432197,Control,APAC,Free,96.0
+U642348,Control,Europe,Premium,2428.0
+U925294,Control,North America,Premium,372.0
+U609100,Treatment,Europe,Premium,1545.0
+U706609,Treatment,Europe,Free,431.0
+U316223,Treatment,LATAM,Premium,1055.0
+U891429,Treatment,APAC,Premium,245.0
+U584708,Treatment,LATAM,Free,718.0
+U665484,Control,North America,Free,128.0
+U575736,Treatment,Europe,Premium,889.0
+U279283,Treatment,North America,Free,241.0
+U687048,Control,LATAM,Premium,278.0
+U371108,Control,North America,Free,495.0
+U415207,Treatment,Europe,Premium,580.0
+U348264,Treatment,APAC,Free,1008.0
+U891868,Control,LATAM,Premium,938.0
+U679163,Treatment,North America,Premium,775.0
+U630317,Control,Europe,Free,1295.0
+U191258,Control,LATAM,Premium,919.0
+U713433,Control,Europe,Premium,967.0
+U665083,Control,North America,Free,
+U234607,Treatment,APAC,Free,1364.0
+U833556,Control,Europe,Premium,1252.0
+U357071,Treatment,Europe,Premium,803.0
+U199816,Control,North America,Free,1221.0
+U674082,Treatment,Europe,Premium,677.0
+U801350,Treatment,Europe,Free,1898.0
+U194289,Treatment,North America,Free,749.0
+U138802,Treatment,Europe,Premium,660.0
+U893877,Treatment,Europe,Free,924.0
+U782391,Treatment,APAC,Free,2160.0
+U927114,Treatment,MEA,Free,443.0
+U472037,Treatment,North America,Free,881.0
+U819895,Control,North America,Free,470.0
+U561570,Control,APAC,Premium,659.0
+U366377,Control,MEA,Free,342.0
+U984776,Control,APAC,Premium,949.0
+U286725,Control,North America,Premium,704.0
+U133571,Control,North America,Free,1203.0
+U683697,Treatment,North America,Free,1435.0
+U671116,Control,APAC,Premium,1583.0
+U785189,Treatment,Europe,Free,486.0
+U525019,Control,Europe,Free,926.0
+U619235,Treatment,Europe,Premium,1651.0
+U904552,Control,North America,Premium,340.0
+U813907,Control,LATAM,Premium,761.0
+U215185,Control,North America,Free,360.0
+U418025,Treatment,LATAM,Free,2141.0
+U566331,Control,LATAM,Free,1638.0
+U107298,Treatment,LATAM,Premium,1040.0
+U774991,Control,Europe,Free,1028.0
+U577778,Treatment,APAC,Free,390.0
+U368198,Control,LATAM,Free,1768.0
+U794498,Treatment,North America,Premium,559.0
+U207211,Control,North America,Premium,423.0
+U814200,Control,LATAM,Free,1488.0
+U494386,Control,North America,Free,518.0
+U666595,Control,North America,Free,437.0
+U930992,Control,North America,Free,1251.0
+U695532,Treatment,North America,Free,256.0
+U261342,Control,Europe,Free,1048.0
+U533420,Control,LATAM,Premium,767.0
+U452567,Treatment,North America,Premium,1181.0
+U625082,Control,LATAM,Premium,970.0
+U132202,Control,North America,Premium,3033.0
+U456579,Treatment,Europe,Free,820.0
+U351996,Treatment,North America,Free,517.0
+U150241,Treatment,APAC,Free,707.0
+U962257,Control,MEA,Premium,962.0
+U940679,Treatment,Europe,Free,2064.0
+U122469,Control,North America,Free,1096.0
+U440661,Treatment,North America,Free,372.0
+U953566,Treatment,North America,Free,4000.0
+U785106,Treatment,APAC,Premium,1395.0
+U248570,Control,North America,Premium,354.0
+U508969,Control,MEA,Free,277.0
+U637225,Treatment,Europe,Premium,232.0
+U369172,Treatment,Europe,Free,680.0
+U363830,Treatment,APAC,Free,701.0
+U231193,Treatment,North America,Free,415.0
+U116320,Treatment,APAC,Premium,201.0
+U175767,Control,North America,Premium,283.0
+U312177,Control,APAC,Free,1111.0
+U102766,Control,Europe,Premium,566.0
+U817278,Control,North America,Free,312.0
+U262862,Control,APAC,Free,766.0
+U127017,Treatment,North America,Premium,874.0
+U658765,Treatment,North America,Premium,943.0
+U777242,Treatment,APAC,Premium,745.0
+U360553,Control,Europe,Premium,663.0
+U197426,Treatment,APAC,Free,1570.0
+U770152,Treatment,LATAM,Premium,294.0
+U128109,Treatment,LATAM,Premium,599.0
+U541016,Treatment,North America,Free,115.0
+U243803,Treatment,North America,Free,540.0
+U842416,Treatment,MEA,Premium,805.0
+U146640,Control,North America,Free,1243.0
+U956187,Treatment,Europe,Free,119.0
+U389728,Control,North America,Premium,788.0
+U176189,Control,North America,Premium,2264.0
+U543234,Control,Europe,Premium,993.0
+U877422,Treatment,APAC,Premium,247.0
+U474209,Treatment,APAC,Free,541.0
+U743328,Treatment,APAC,Premium,1015.0
+U874475,Control,North America,Free,431.0
+U624077,Control,Europe,Premium,855.0
+U206707,Treatment,North America,Free,819.0
+U240356,Control,LATAM,Premium,673.0
+U980119,Treatment,EUROPE,Premium,223.0
+U628129,Control,Europe,Premium,394.0
+U222912,Treatment,North America,Free,2413.0
+U358665,Treatment,APAC,Free,513.0
+U480481,Treatment,APAC,Free,563.0
+U392164,Control,APAC,Free,561.0
+U565605,Treatment,North America,Premium,1222.0
+U995147,Treatment,MEA,Free,585.0
+U811605,Treatment,North America,Premium,684.0
+U454675,Treatment,Europe,Free,788.0
+U369247,Control,North America,Free,1315.0
+U627251,Control,North America,Premium,686.0
+U403981,Control,Europe,Free,742.0
+U293718,Control,North America,Free,448.0
+U524857,Treatment,Europe,Free,
+U227165,Control,LATAM,Free,1050.0
+U873990,Control,APAC,Premium,1100.0
+U210194,Control,LATAM,Free,2176.0
+U800528,Control,Europe,Free,371.0
+U387004,Control,NORTH AMERICA,Premium,707.0
+U339887,Treatment,APAC,Free,588.0
+U753309,Control,North America,Premium,1927.0
+U374916,Treatment,North America,Free,1129.0
+U767807,Control,North America,Premium,165.0
+U253768,Control,LATAM,Free,418.0
+U857184,Treatment,Europe,Free,535.0
+U825273,Control,LATAM,Premium,190.0
+U310680,Control,Europe,Premium,747.0
+U200269,Treatment,Europe,Premium,464.0
+U113185,Treatment,Europe,Premium,2238.0
+U830275,Treatment,North America,Free,864.0
+U988717,Control,Europe,Premium,519.0
+U256748,Treatment,LATAM,Premium,311.0
+U445464,Treatment,Europe,Free,663.0
+U380832,Treatment,North America,Free,1821.0
+U823479,Control,LATAM,Free,593.0
+U323842,Control,Europe,Premium,668.0
+U864215,Control,North America,Free,1437.0
+U766686,Control,North America,Free,847.0
+U700876,Treatment,Europe,Premium,1205.0
+U577228,Control,Europe,Premium,907.0
+U266474,Control,LATAM,Free,872.0
+U962808,Control,North America,Premium,156.0
+U825343,Control,APAC,Free,274.0
+U908018,Control,North America,Premium,784.0
+U262152,Control,LATAM,Free,336.0
+U395107,Control,APAC,Free,664.0
+U751457,Treatment,Europe,Premium,252.0
+U910737,Control,North America,Free,1445.0
+U467170,Treatment,Europe,Free,371.0
+U802406,Control, mea ,Free,310.0
+U682968,Control,MEA,Premium,203.0
+U466509,Control,North America,Premium,1091.0
+U376223,Control,APAC,Premium,663.0
+U460538,Control,Europe,Premium,1410.0
+U328754,Control,North America,Premium,451.0
+U676692,Treatment,LATAM,Free,267.0
+U979980,Control,Europe,Free,
+U703376,Control,Europe,Premium,1598.0
+U800377,Treatment,APAC,Premium,152.0
+U697666,Control,Europe,Premium,833.0
+U440619,Control,LATAM,Premium,893.0
+U915480,Control,Europe,Free,1772.0
+U956586,Control,North America,Premium,348.0
+U587081,Control,Europe,Premium,142.0
+U671953,Treatment,MEA,Premium,487.0
+U321160,Treatment,Europe,Premium,1194.0
+U585430,Treatment,NORTH AMERICA,Premium,695.0
+U917187,Control,LATAM,Premium,960.0
+U904128,Control,MEA,Free,283.0
+U726818,Control,APAC,Premium,566.0
+U192779,Control,Europe,Free,714.0
+U444461,Control,Europe,Free,176.0
+U511748,Control,Europe,Free,711.0
+U487220,Control,APAC,Free,527.0
+U867113,Control,APAC,Free,3425.0
+U412848,Control,APAC,Premium,675.0

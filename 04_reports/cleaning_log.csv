@@ -1,0 +1,11 @@
+Dataset,Issue,Records_Affected,Action_Taken,Reason
+Daily User Activity,Exact duplicate records,78,Removed exact duplicate rows,Prevent duplicate activity from being counted twice
+Daily User Activity,Impossible podcast listening values,12,Replaced values above 1440 with NaN,Daily listening cannot exceed 1440 minutes
+Daily User Activity,Originally missing podcast minutes,158,Retained as NaN,Avoid assuming missing listening data means zero
+Daily User Activity,Unmatched User IDs,20,Flagged for investigation; retained in dataset,Experiment assignment could not be verified
+User Experiment Map,Missing Account Age,30,Retained as NaN,Avoid inventing user account ages
+User Experiment Map,Inconsistent Region formatting,2000,Converted region names to lowercase and removed spaces,Ensure consistent region categories
+Daily User Activity,Date data type,Validated,Converted Date to datetime,Support date-based analysis
+Daily User Activity,Missing podcast records differ across experiment and subscription groups,169,Performed Chi-square test; retained missing values as NaN,"Significant difference detected (chi-square = 12.39, p = 0.00615). Control-Free had the highest missing rate (1.22%). Sensitivity analysis required."
+User Activity,Missing podcast records differ across experiment and subscription groups,169,Performed Chi-square test; retained missing values as NaN,"Significant difference detected (chi-square = 12.39, p = 0.00615). Control-Free had the highest missing rate (1.22%). Sensitivity analysis required."
+User Activity,Missing podcast records differ across experiment and subscription groups,169,Performed Chi-square test; retained missing values as NaN,"Significant difference detected (chi-square = 12.39, p = 0.00615). Control-Free had the highest missing rate (1.22%). Sensitivity analysis required."

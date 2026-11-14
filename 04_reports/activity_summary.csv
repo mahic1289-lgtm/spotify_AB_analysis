@@ -1,0 +1,11 @@
+Metric,Before Cleaning,After Cleaning
+Total Records,19741,19663
+Unique Users,2020,2020
+Duplicate Records,78,0
+Missing Podcast Minutes,158,170
+Missing Music Minutes,0,0
+Missing Dates,0,0
+Impossible Podcast Values,13,0
+Impossible Music Values,0,0
+Negative Podcast Values,0,0
+Negative Music Values,0,0
